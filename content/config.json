@@ -1,0 +1,47 @@
+{
+  "title": "Blog by Kaylee Cragg",
+  "url": "https://lumen.alxshelepenok.com",
+  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "copyright": "© All rights reserved.",
+  "googleAnalyticsId": "UA-73379983-2",
+  "pathPrefix": "/",
+  "feedLimit": 4,
+  "menu": [
+    {
+      "title": "About me",
+      "url": "/pages/about"
+    },
+    {
+      "title": "Work Experience",
+      "url": "/pages/work"
+    },
+    {
+      "title": "Projects",
+      "url": "/"
+    },
+
+    {
+      "title": "Contact me",
+      "url": "/pages/contacts"
+    }
+  ],
+  "author": {
+    "title": "Kaylee Cragg",
+    "photo": "/logo.png",
+    "description": "just a girl",
+    "contacts": [
+      {
+        "name": "linkedin",
+        "contact": "kayleecragg"
+      },
+      {
+        "name": "github",
+        "contact": "kayleecragg"
+      },
+      {
+        "name": "email",
+        "contact": "kayleecragg1@gmail.com"
+      }
+    ]
+  }
+}
