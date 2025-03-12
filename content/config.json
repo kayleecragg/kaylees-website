@@ -4,16 +4,16 @@
   "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "UA-73379983-2",
-  "pathPrefix": "/",
+  "pathPrefix": "kaylees-website",
   "feedLimit": 4,
   "menu": [
     {
-      "title": "About me",
-      "url": "/pages/about"
+      "title": "About",
+      "url": "/about"
     },
     {
       "title": "Work Experience",
-      "url": "/pages/work"
+      "url": "/work"
     },
     {
       "title": "Projects",
@@ -21,13 +21,13 @@
     },
 
     {
-      "title": "Contact me",
-      "url": "/pages/contacts"
+      "title": "Contact",
+      "url": "/contacts"
     }
   ],
   "author": {
     "title": "Kaylee Cragg",
-    "photo": "/logo.png",
+    "photo": "sunnies.png",
     "description": "just a girl",
     "contacts": [
       {
