@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jun 2025 12:36:35 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[making a project while on shift]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jun 2025 12:38:30 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[making a project while on shift]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;ul&gt;
 &lt;li&gt;Developed a real-time tennis tournament checkerboard web application using HTML/CSS/JavaScript that aggregates live match data from a custom-made API (hosted on Vercel).&lt;/li&gt;
 &lt;li&gt;Able to give notifications when a match changes court or players.&lt;/li&gt;
 &lt;li&gt;Widely used by my company’s live operations team during large tennis tournaments to keep up to date on court and player changes, as well as to keep track of the matches on their assigned court.&lt;/li&gt;
@@ -73,7 +73,9 @@
 &lt;li&gt;Aliquam tincidunt mauris eu risus.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ascension]]></title><description><![CDATA[Roguelike 2D Game adapted from the novel TGCF]]></description><link>http://kayleecragg.github.io//posts/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;From 40 hours to 4 hours.&lt;/strong&gt;&lt;/p&gt;
+Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ascension]]></title><description><![CDATA[Roguelike 2D Game adapted from the novel TGCF]]></description><link>http://kayleecragg.github.io//posts/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/kayleecragg/ascension&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;
+&lt;a href=&quot;https://youtu.be/FHOgZQkW0RY&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
+&lt;p&gt;&lt;strong&gt;From 40 hours to 4 hours.&lt;/strong&gt;&lt;/p&gt;
 &lt;p&gt;It all started when my friend at work was complaining about having to make assets for a rugby competition. You see, in a typical rugby competition season running roughly for 12 weeks, there are on average about 120 games.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -81,40 +83,40 @@ Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aen
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/696aa3404bfe9160759582540623bdd4/9c507/platform.png&quot;
+    href=&quot;/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/669cd/ascension1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 16.249999999999996%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAADCAIAAAAcOLh5AAAACXBIWXMAABYlAAAWJQFJUiTwAAAAu0lEQVR42g3IzxKBQBwA4C4OZmKKTdbqt9Vsmdi1qJDxr4bihBnNOLtwdvAg3sJb8h0/RYihkFE/SmU4l9xbL/vTOADqmthWdSCE4g6t6VYLO//UEWhNAHBQC1QNFEyoNVh5q+cu2dyv4fdTvl+PKLvVrSN2dsNRSkWp4v1sceJhWTFyp7eJl2fELl2WKwgZ1UZbEjdjtktN6fkdq7AZryG/SJMgGGhmMJKT7SLEwG02zrex6wmD8EOW/ADg6x7+OTvKRwAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAABYlAAAWJQFJUiTwAAACu0lEQVR42hWQ2W/TQBDG/cILCEhzNM3R3LGd+Ehsx3Z8rq9d20mgB0EtL31BSLQlPZImPVTRigohkEBQKLzA/8pW+jQj7cw389shThcHJ9PJ/ORgNpucnc/OL+Yn83fnpwcnZ9Pdw/3TxeHF6WQxn1xeLhZn0+lsMp8fHR/u4XhzfUmksonCajqTTybSj1ZKyxWyVCwnm81MtZkr1XP1WqZaepotPq1RlZVSJpF6mF9dXko+TmVSPM8SxcaqKPNMl27SpTbXEHqsrLCq0hqvhZtrEc1XuW6DEyhWaOEqi8VTNNOoUzVNU4nlQlpRBYYj+S7Ncc0mXeakdqGZm0x3v37+8CD7JN/ItzpkjSoJAt1i6jWyXCfLDbIsKxKBkyCybZ7STUVRO1SrTPGk2Wu/j8CPjXiTLFSoEoOf21VdFwWJI1u1NkdTTEM3VAIzCxIPgGFaal8TNJVTLHlPE2577Eem/ltlPa1bJouWKXMduiMyOJqmoulSAF1CklmlLwxj5DqaoYtb4+HR250bQ/gF7W/IvjPFHbPHdknkWZomGoZkGj0I3QA5EHmEH5iuq4ehey/kjEboajb5+Wr8ZQQvtzbungXzyAPQRp4eh14cOhFyURREcYCwGYZe4NsR8qLQHwxgFAUwcLdH4a3MfF+Pro4PXm+/9H3LB30Mh/0RdHEnbvNcmxgM48B3YACgb4d4BPIHw8F6DP/q3X/Q+vPp+sV4fRAhbAuhg6CLAoCgN8AMlkbEUejYpueYjq0hXPYBACa09GlfvOiLb4axqspaX8GCeJljuED3HLwmUOUuESJoGZoDDIzhALtYyGVXssV8rp3NUMlEJZVMp1OJRGJpacm2rcCzbVN3gOV7QBJYYjgceN49SQj9OEJ9WZTEzvMITnRlX2D3Y2RblmnowDbjEKL734HAx6cNNEX8D0zxvrChnKLtAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/kaylees-website/static/696aa3404bfe9160759582540623bdd4/8ac56/platform.webp 240w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/d3be9/platform.webp 480w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/e46b2/platform.webp 960w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/f992d/platform.webp 1440w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/882b9/platform.webp 1920w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/7fe0f/platform.webp 2768w&quot;
+              srcset=&quot;/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/8ac56/ascension1.webp 240w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/d3be9/ascension1.webp 480w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/e46b2/ascension1.webp 960w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/f992d/ascension1.webp 1440w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/882b9/ascension1.webp 1920w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/e51ec/ascension1.webp 3024w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/kaylees-website/static/696aa3404bfe9160759582540623bdd4/8ff5a/platform.png 240w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/e85cb/platform.png 480w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/d9199/platform.png 960w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/07a9c/platform.png 1440w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/29114/platform.png 1920w,
-/kaylees-website/static/696aa3404bfe9160759582540623bdd4/9c507/platform.png 2768w&quot;
+            srcset=&quot;/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/8ff5a/ascension1.png 240w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/e85cb/ascension1.png 480w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/d9199/ascension1.png 960w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/07a9c/ascension1.png 1440w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/29114/ascension1.png 1920w,
+/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/669cd/ascension1.png 3024w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/696aa3404bfe9160759582540623bdd4/d9199/platform.png&quot;
-            alt=&quot;Youtube.&quot;
+            src=&quot;/kaylees-website/static/e05e5c7f6d9124d904ccb21530935816/d9199/ascension1.png&quot;
+            alt=&quot;ascension1&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
             decoding=&quot;async&quot;
@@ -122,46 +124,95 @@ Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aen
           /&gt;
         &lt;/picture&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;As you can see above, the way these games would be presented on platform (Stan) would be as individual tiles. In the backend, a&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/kaylees-website/efed62bfa6e6d1d4d305c165015bd603/kiki.gif&quot; alt=&quot;A preview of Stan&amp;#x27;s live &amp;#x26; upcoming feed on platform.&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;img src=&quot;/kaylees-website/811fc3f6438b59470012ec8f6c058838/kikibot.gif&quot; alt=&quot;A preview of Stan&amp;#x27;s live &amp;#x26; upcoming feed on platform.&quot;&gt;&lt;/p&gt;
-&lt;p&gt;&lt;span
+    &lt;/span&gt;
+&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/00d43/postbot.png&quot;
+    href=&quot;/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/669cd/ascension2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 65.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAYAAACpUE5eAAAACXBIWXMAABYlAAAWJQFJUiTwAAABvUlEQVR42qWS227TQBCG/R5QiTYHe7327trO+hTHduI0FS1RRQEJFXGBegFXiBtuEc/AE/Qd+g59rZ/ZTd02oSBFXHwa7+mffzzjfOoW+LiuUU07lOkMVd78wev1W5yfXTx51jPNarRVByfkAWIRQYYJIqHBmA/PY1v4Prfs7u/CSctxvTGYq1HIS2TyFYbDITHam8FgaM04HuMoZYvrn79wVl3g+cELuK6L0Wi8F0bUVOF4Hse74yvcXt/g85tveHZw+H+Cvu/j8vwDvn/9gav3XxBQgsOjgS3hb+yW2wvakqMoRlGWyIscQggoGUFIBUlRqdjGDYrWykbjhDFGlXi2GeOx++AwSTRmVYtld4KuW2E+X6KuF2jbDovFMZpm893Hup4jy3KkaYo4jqG1JiPSOn8QnLV0qURVNXQpRRgqIrJR0Ej1mHUQSJg3STKxQkpt3N8LxvEE02lDGQvKlmMyyRBFeguTxKBUQndrSl4gz3MSD23ZRsz8R/sPtc6wWr3EcnmC09O1ze66jA75kxgRQxgKO8hGZKvL/aZZcB7aw391+Igm4DGP902DHHHXNc75XQzuXeyDeWcm5jffw5QC/ecWAQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAABYlAAAWJQFJUiTwAAACgUlEQVR42l2QW2/aQBCFNyIkohDhcE1iMAGM7xhsg+/4uru2Q/pDeiFpAoQkykOl/vEurdSHjkazD7PfOUcDDvuH3fNmv3vYbjevb9u39/1u//3t8LA7PH15/HY4PL4fNi/7zcfHy8vr8/N2s9//eHr8Suavnx+g2aXofqt906Ba1Sumc8sxvUFjMmmPeZphr8ej9pCpd3v1EX97xbSp5qebfueycdFsN1VVAT22ry9VeS5MBEaastpCWZqybcuurXS7lxNxoGoTReMVTSRbhbTKCzI75keOY4EO3TItTZ5y6lyYqhNWGEiaIMzGQ5EBAFQaNZqjRZUb84ymCaI8HnGDMTdgucHSNAB5NF2RVN71TdOaceKAfNXtaafXIvD5xflQHEgqJ0pD19U1Y8qJI2kq8DLrehYgmTVDDUPPX1mOq89n3GIhGZpcPi0RGJwAThiyAuN7i+lMmOkymb5vOq4BUQyMpWLa2rrAUWiHgRX6C1MXq9XKETw5IbNPd6yllMae4+ieZxAVhGKII4QTkEI/jt0sizMc5VmcZ0mwsk5LpX9ws0FlKISxW2RJkUU5jnEO8wJiAqMsgWmQ4yTP0qKAn+/zIPBKf+C/RSRsy0Cxm+OI8DkiBmmewyQOwN26gGmEYIjSIENxkaMw8P+DPc++LxCGEUYxhiFGyR3JsHJAkWdR4CeRHwXOcZ2SDrvdziUpiqrVLlqtlmObpBExi7w4dJMoyDC0lnOQYbTynCj0SIwoDHr0dY++qdfrlUqlXC4T57OzM4qiiFQQrGBChhuFqzQJDU0B6/VdkhyTZCgtcmwtdNtc9Pu9arVGGKJydHbslU8OdkyO0gim5LrQMfXf6byXyJIJtvAAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/8ac56/postbot.webp 240w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/d3be9/postbot.webp 480w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/e46b2/postbot.webp 960w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/a5d4d/postbot.webp 1000w&quot;
+              srcset=&quot;/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/8ac56/ascension2.webp 240w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/d3be9/ascension2.webp 480w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/e46b2/ascension2.webp 960w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/f992d/ascension2.webp 1440w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/882b9/ascension2.webp 1920w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/e51ec/ascension2.webp 3024w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/8ff5a/postbot.png 240w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/e85cb/postbot.png 480w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/d9199/postbot.png 960w,
-/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/00d43/postbot.png 1000w&quot;
+            srcset=&quot;/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/8ff5a/ascension2.png 240w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/e85cb/ascension2.png 480w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/d9199/ascension2.png 960w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/07a9c/ascension2.png 1440w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/29114/ascension2.png 1920w,
+/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/669cd/ascension2.png 3024w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
             type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/8fe598e28860819f3e7d9668092bf5cd/d9199/postbot.png&quot;
-            alt=&quot;A preview of Stan&amp;#39;s live &amp;amp; upcoming feed on platform.&quot;
+            src=&quot;/kaylees-website/static/0af8f6236920b26e2e1cd84b5e3bdd3e/d9199/ascension2.png&quot;
+            alt=&quot;ascension1&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/669cd/ascension3.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 62.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAANCAIAAAAmMtkJAAAACXBIWXMAABYlAAAWJQFJUiTwAAAAeElEQVR42mOIi42Oj43BRHEx0eGhIUASqyxEAQNFgIWZGRdixi0FQQyDDDAxMVKkn5GRkYmJCcQgSRsHJ7NfsDQ7OwupGkGAjY3JzFyIlY0FwhVgY2ZnZiLNzcB4gtgbIMGnzM1GgvuBGiEexmcBpbHCTC5gZWEGAIkiGbX8GNIuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/8ac56/ascension3.webp 240w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/d3be9/ascension3.webp 480w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/e46b2/ascension3.webp 960w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/f992d/ascension3.webp 1440w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/882b9/ascension3.webp 1920w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/e51ec/ascension3.webp 3024w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/8ff5a/ascension3.png 240w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/e85cb/ascension3.png 480w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/d9199/ascension3.png 960w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/07a9c/ascension3.png 1440w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/29114/ascension3.png 1920w,
+/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/669cd/ascension3.png 3024w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/kaylees-website/static/92ad17a42fae8413598ae23e1156590d/d9199/ascension3.png&quot;
+            alt=&quot;ascension1&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
             decoding=&quot;async&quot;
