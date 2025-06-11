@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jun 2025 13:00:38 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[making a project while on shift]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 11 Jun 2025 13:04:09 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[making a project while on shift]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/tennis&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;ul&gt;
 &lt;li&gt;Developed a real-time tennis tournament checkerboard web application using HTML/CSS/JavaScript that aggregates live match data from a custom-made API (hosted on Vercel).&lt;/li&gt;
@@ -96,11 +96,12 @@
           /&gt;
         &lt;/picture&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ascension]]></title><description><![CDATA[Roguelike 2D Game adapted from the novel TGCF]]></description><link>http://kayleecragg.github.io//posts/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/kayleecragg/ascension&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ascension]]></title><description><![CDATA[Roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF]]></description><link>http://kayleecragg.github.io//posts/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://github.com/kayleecragg/ascension&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;
 &lt;a href=&quot;https://youtu.be/FHOgZQkW0RY&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;YouTube&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;strong&gt;From 40 hours to 4 hours.&lt;/strong&gt;&lt;/p&gt;
-&lt;p&gt;It all started when my friend at work was complaining about having to make assets for a rugby competition. You see, in a typical rugby competition season running roughly for 12 weeks, there are on average about 120 games.&lt;/p&gt;
-&lt;p&gt;&lt;span
+&lt;p&gt;Made with Lua and LÖVE2D (game engine that made Balatro).
+WIP with the page.
+&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
@@ -243,7 +244,7 @@
           /&gt;
         &lt;/picture&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arcane Season 2 Countdown]]></title><description><![CDATA[I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.]]></description><link>http://kayleecragg.github.io//posts/arcane-s2</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/arcane-s2</guid><pubDate>Mon, 23 Sep 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
+    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arcane Season 2 Countdown]]></title><description><![CDATA[Countdown web app written in good ol' HTML CSS Javascript: I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.]]></description><link>http://kayleecragg.github.io//posts/arcane-s2</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/arcane-s2</guid><pubDate>Mon, 23 Sep 2024 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
@@ -307,7 +308,7 @@
 			&lt;cite&gt;— unregrettably, me - circa 2024&lt;/cite&gt;
 		&lt;/footer&gt;
 	&lt;/blockquote&gt;
-&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kikibot]]></title><description><![CDATA[Automated Asset and Image Creation that turned 40 hours into 4 hours]]></description><link>http://kayleecragg.github.io//posts/kikibot</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/kikibot</guid><pubDate>Sat, 20 Jan 2024 13:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;From 40 hours to 4 hours.&lt;/strong&gt;
+&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Kikibot]]></title><description><![CDATA[Automated Asset and Image Creation made in Python that turned 40 hours into 4 hours]]></description><link>http://kayleecragg.github.io//posts/kikibot</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/kikibot</guid><pubDate>Sat, 20 Jan 2024 13:46:37 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;From 40 hours to 4 hours.&lt;/strong&gt;
 &lt;a href=&quot;https://colab.research.google.com/drive/1jFuPN-3OMjf6p990YB8j_fsw3-JhViI0?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Colab&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/kikibot&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;It all started when my friend at work was complaining about having to make assets for a rugby competition. You see, in a typical rugby competition season running roughly for 12 weeks, there are on average about 120 games.&lt;/p&gt;
