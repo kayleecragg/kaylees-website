@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 12 Jun 2025 03:30:00 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 12 Jun 2025 03:31:50 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/tennis&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -378,79 +378,35 @@ The way these games would be presented on platform (Stan) would be as individual
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/0c02e/boss1.jpg&quot;
+    href=&quot;/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/0d0e4/boss1.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 32.49999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFgABAQEAAAAAAAAAAAAAAAAAAAMF/8QAFAEBAAAAAAAAAAAAAAAAAAAAAP/aAAwDAQACEAMQAAAByZhEH//EABgQAAIDAAAAAAAAAAAAAAAAAAABEBEi/9oACAEBAAEFAslKP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAAQMUH/2gAIAQEABj8Cwq//xAAaEAABBQEAAAAAAAAAAAAAAAABABARcZGx/9oACAEBAAE/IaYROZ4b/9oADAMBAAIAAwAAABAID//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8QP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABkQAQEAAwEAAAAAAAAAAAAAAAERABAxQf/aAAgBAQABPxBZjadHjgTfDnX/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 107.91666666666666%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAWCAIAAABPIytRAAAACXBIWXMAABYlAAAWJQFJUiTwAAACyklEQVR42o1UWXeaYBCNERd2EBQUqmkMiURFg9G4RPZViTnp6VNf+t6/0f6t/rZ2wDSVxC5z5sy53xyGb+7MhZMSUmIZjmE4mmIpiqXpWuoZqFarJ383QWiFwdZ1Q9cJojCJ44fl0lJ7Y214e9ZRCm8sV9xoiLbtmaYDHviR6/iGYa9Whm277fb5P27GcbJ3NbhWtWt1CFFVtUF/DFjtDc/fK5LUluWOLLWlVgq4Wj13uShKUZRA26uV6diBYbiOE1imu763fC+MoocwTIIgdmwf8M3NtFwqHxQLElQOBnq3q14qfeXi2S+VgdJVOy2pe3YBx4uuCrF73iuVSr+LEQSBc6UCo0UPHKtUKjjJKvefOfm6XEZQFIdk7toXK5zkxlgoFCFiQv/r9x+LT98An54Wj5TVavxyYdzNlsulMZsuAKyWxt3darG4XyzMWfyl0XP37ztSzHF1TdPH44muz0ajyWikw1QATKdzXZ+CetK6wumRJf+f/bmmWEQoiiZwEhZOEBS+Bxl+jlmSzI6lVwMTGk2QpO/HtuVZlhuGqVRhq7bte14EO/eyYxqdQJI6Gf1fvbRa76xUmOFu9/T09HE+Xw/6+mh4C9oeaVMtA+DDwWQ8msnSWY4IihGc2K3x7yiKYZgaSdL7VgniBUDDaSQJ+nXbRaTMipcU38FQDMMIUAKaAhxUgWI4IACQhwwwh5grBm2HfrTdJKbprdf24+OHKNwaaxumAJzTQZgucDbWju9Ft5M5cijPVlNOtg9B9qjrBknyCA9tt2kE8nu24IDBe1fDcvmg8ypK8E2F5WWKpGia2XMG/uDp2l6WR9Dwn8FxItc2ApwFheLawBlNCWdsq3jKHCf3hAGDyI6IpNmU42izS3a25W82u+yXFHleDJw32f49N9rEO5blchveG7y/XhdFscXzQqPRBFyvC5k/A8hDhA/37c0/AdwIgmuStWfuAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/8ac56/boss1.webp 240w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/d3be9/boss1.webp 480w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/e46b2/boss1.webp 960w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/b732a/boss1.webp 1206w&quot;
+              srcset=&quot;/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/8ac56/boss1.webp 240w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/d3be9/boss1.webp 480w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/e46b2/boss1.webp 960w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/fc6cc/boss1.webp 1230w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/09b79/boss1.jpg 240w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/7cc5e/boss1.jpg 480w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/6a068/boss1.jpg 960w,
-/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/0c02e/boss1.jpg 1206w&quot;
+            srcset=&quot;/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/8ff5a/boss1.png 240w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/e85cb/boss1.png 480w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/d9199/boss1.png 960w,
+/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/0d0e4/boss1.png 1230w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
+            type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/fdba0bc834e78f8a87cf79c00e92399b/6a068/boss1.jpg&quot;
-            alt=&quot;message from my boss&quot;
-            title=&quot;&quot;
-            loading=&quot;lazy&quot;
-            decoding=&quot;async&quot;
-            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
-          /&gt;
-        &lt;/picture&gt;
-  &lt;/a&gt;
-    &lt;/span&gt;
-&lt;span
-      class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
-    &gt;
-      &lt;a
-    class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/0c02e/boss2.jpg&quot;
-    style=&quot;display: block&quot;
-    target=&quot;_blank&quot;
-    rel=&quot;noopener&quot;
-  &gt;
-    &lt;span
-    class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 74.16666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAPABQDASIAAhEBAxEB/8QAFwABAQEBAAAAAAAAAAAAAAAAAAEDBf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAeNLDEH/xAAYEAADAQEAAAAAAAAAAAAAAAABECERAv/aAAgBAQABBQLJ1VsJX//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABsQAAIBBQAAAAAAAAAAAAAAAAAQQgEhMUGR/9oACAEBAAY/AomaWUeGl//EABoQAQACAwEAAAAAAAAAAAAAAAERIQAQYYH/2gAIAQEAAT8hKMhBMYoNBhxiEqfmv//aAAwDAQACAAMAAAAQKw//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAEAAgMBAAAAAAAAAAAAAAABETEAIUEQ/9oACAEBAAE/ENwlC1nKMARRcGDHBwocA2lwug1BHz//2Q==&apos;); background-size: cover; display: block;&quot;
-  &gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source
-              srcset=&quot;/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/8ac56/boss2.webp 240w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/d3be9/boss2.webp 480w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/e46b2/boss2.webp 960w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/b732a/boss2.webp 1206w&quot;
-              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-              type=&quot;image/webp&quot;
-            /&gt;
-          &lt;source
-            srcset=&quot;/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/09b79/boss2.jpg 240w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/7cc5e/boss2.jpg 480w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/6a068/boss2.jpg 960w,
-/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/0c02e/boss2.jpg 1206w&quot;
-            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
-          /&gt;
-          &lt;img
-            class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/9f6b6c10aaa883e75bea508cc4b1a6d6/6a068/boss2.jpg&quot;
+            src=&quot;/kaylees-website/static/a144731b086c4ebc811e8ab010a244a7/d9199/boss1.png&quot;
             alt=&quot;message from my boss&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
@@ -607,37 +563,39 @@ The way these games would be presented on platform (Stan) would be as individual
     &lt;/span&gt;
 &lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
-      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 729px; &quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/1678b/standup2.jpg&quot;
+    href=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/78612/standup2.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 56.25%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAALABQDASIAAhEBAxEB/8QAGAAAAgMAAAAAAAAAAAAAAAAAAAQBAwX/xAAWAQEBAQAAAAAAAAAAAAAAAAAEAgP/2gAMAwEAAhADEAAAAct1BxxZLTWP/8QAGRABAAIDAAAAAAAAAAAAAAAAAQACEBEy/9oACAEBAAEFAtQcHUqCf//EABYRAQEBAAAAAAAAAAAAAAAAAAACEf/aAAgBAwEBPwG2P//EABgRAAIDAAAAAAAAAAAAAAAAAAABAxIh/9oACAECAQE/AYtLI//EABQQAQAAAAAAAAAAAAAAAAAAACD/2gAIAQEABj8CX//EABoQAQADAAMAAAAAAAAAAAAAAAEAESEQMYH/2gAIAQEAAT8hDsy1fI9xNTi8JP/aAAwDAQACAAMAAAAQGA//xAAWEQEBAQAAAAAAAAAAAAAAAAABACH/2gAIAQMBAT8QaJDdv//EABYRAQEBAAAAAAAAAAAAAAAAAAEAEf/aAAgBAgEBPxAAZJy//8QAGhAAAwEBAQEAAAAAAAAAAAAAAAERITFRcf/aAAgBAQABPxB744IULzgZVNVymwY5RmpTvrP/2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAABYlAAAWJQFJUiTwAAACP0lEQVR42mPgkXHil/fhk3HmVwwAkQq+nIKaMrYt2lnfncqfJ094mtj7LLztRVzP07RJz9InP/GqeaGR/Ekn9ZN26icGPqUQfqVIfgUfQZUIIfUIUcN8Hik7Mf1UnfS3JjmvbYpeWxW8Mc97Z5n/xroQhEyy3+mmf9ADofcMooZlgqrRAqphQpqxEqbF8m7ThNTjxQyztZLvaKd/VEv4op3yVTvli3byZ+3kL1pAMgXE0Ez6BkQMMo7ThTTjhTSTxAyzpO0bVINWihkVSVhUayVd18v8pJH0xb7kjW/Do5DWx5GdD2J77gc2PNFN/aCV/BWIGGRd5wprJ4vqF0jb1Ek7tmtEbZa0rJWxb9FOvqmb8RFolXHWh+QJ99In3fGufZTYdyeq455G0ieoZmmnaSK6aZKWDbIOLTIOHdoJu+Sc2uVde7STbwE1ayZ/Nsn6aF/8xiL3rX76B5Ost6bZb4ChBdPsOFXcuEDavl3GvlnGvkM3dZ+CR6+CW69W0m2gZqAPNRK/qSV8U08EeRLIBiKITrBm5+mSFqWSlo2SFuXSwBiK3yHv1qXoOVU75ZFuxgdw8HwFhxlItTYYIWl2mCxhkiekkymqlyJhVq0Wtl7OuVk5YLFu5nvd9LfAcNZCUo2MgMYxiJm3ipvk8CuHCyj7C6hGyzpNkrKpVA3bopv5SSftLS6dmklfgX5hEDNtEtKM4ZXz4hG35BI14pP3FzfP14w7q5vxWTfjNTAxaIGiF4GAblFL+GpX9D6x+wUAjboP2S/LBf0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/8ac56/standup2.webp 240w,
-/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/d3be9/standup2.webp 480w,
-/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/78e23/standup2.webp 729w&quot;
-              sizes=&quot;(max-width: 729px) 100vw, 729px&quot;
+              srcset=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/8ac56/standup2.webp 240w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d3be9/standup2.webp 480w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/e46b2/standup2.webp 960w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/4ef06/standup2.webp 1260w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/09b79/standup2.jpg 240w,
-/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/7cc5e/standup2.jpg 480w,
-/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/1678b/standup2.jpg 729w&quot;
-            sizes=&quot;(max-width: 729px) 100vw, 729px&quot;
-            type=&quot;image/jpeg&quot;
+            srcset=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/8ff5a/standup2.png 240w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/e85cb/standup2.png 480w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d9199/standup2.png 960w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/78612/standup2.png 1260w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/1e39ab9206519cabcc1ba5050e308fc4/1678b/standup2.jpg&quot;
+            src=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d9199/standup2.png&quot;
             alt=&quot;winning internal company award&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
@@ -653,33 +611,35 @@ The way these games would be presented on platform (Stan) would be as individual
     &gt;
       &lt;a
     class=&quot;gatsby-resp-image-link&quot;
-    href=&quot;/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/6a068/standup3.jpg&quot;
+    href=&quot;/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/5c744/standup3.png&quot;
     style=&quot;display: block&quot;
     target=&quot;_blank&quot;
     rel=&quot;noopener&quot;
   &gt;
     &lt;span
     class=&quot;gatsby-resp-image-background-image&quot;
-    style=&quot;padding-bottom: 133.33333333333331%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAbABQDASIAAhEBAxEB/8QAGAABAQEBAQAAAAAAAAAAAAAAAAMEBQL/xAAWAQEBAQAAAAAAAAAAAAAAAAAAAQL/2gAMAwEAAhADEAAAAZ7ri7Gxed55TUokr//EABwQAAICAgMAAAAAAAAAAAAAAAEDAAISFAQQE//aAAgBAQABBQJDK1Y5JcRMqCZ1JPJWs7KhNqgjL+l4ev/EABQRAQAAAAAAAAAAAAAAAAAAACD/2gAIAQMBAT8BH//EABgRAAIDAAAAAAAAAAAAAAAAAAABEBEh/9oACAECAQE/AXpU/wD/xAAgEAABBAEEAwAAAAAAAAAAAAABAAIRITEDEBIgIkFR/9oACAEBAAY/ArwU28belANri42h4Fx+qRpouiOn/8QAHBAAAgMAAwEAAAAAAAAAAAAAAAERITFBUYFh/9oACAEBAAE/IVhOlR2YkXzokKKHAtfBebRPHHYRqIBKpvuTmQ4EYEf/2gAMAwEAAgADAAAAEGPuvv/EABgRAAMBAQAAAAAAAAAAAAAAAAABERAh/9oACAEDAQE/EEpwo3c//8QAFxEBAQEBAAAAAAAAAAAAAAAAEQAQIf/aAAgBAgEBPxDoygz/xAAbEAEBAQEBAQEBAAAAAAAAAAABEQAxIUGx0f/aAAgBAQABPxACaevh+OaEufUIGcmQUKEplAseAP5pAMWLzSkj4VlyYEsgD9dXQ14D7jBhPV4TuBd03G//2Q==&apos;); background-size: cover; display: block;&quot;
+    style=&quot;padding-bottom: 70.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAOCAIAAACgpqunAAAACXBIWXMAABYlAAAWJQFJUiTwAAADRElEQVR42iWS7U8UVxTG54ONVo2YJk1bGpp+qp/sp1a/NALahlJtaupLG9DYNEotEV0Eatq0tYUGivElCi6wuLLR2YXtKqisy86ys6w7y84yy87Lnbl35s7sTAesFaog/ge9aPLkJOckz+/kOTlUZ9e5nl4vkX8ocJMODo+MjI6NRmOx+xNxSZ51XcO2kV2CFtawARBUABAVWYSqtLQIqefPlp+vLK88e/r0ycJ/i48W/v3n8aO5h/O265oYQw0CFUgvDEVFnlUVSRYFPpvSlMLyE0SVrBI2dBPrBoI6gpIMRVGVJE03VoUQgEhRNemlICRb83w2Kc1mV5ZMqoRNxy5Z2DANHWMDIqxBwzB1q0Ra+NKvQVmDqwjSakBgY2GlOL20iChLKjolG+sQ64hshkiXFYLQTRPpuop0DULwwilDBIhZloToreuqIjx+KFHidNZ1HGxgC+O/nZLr2nNzjktGBGlb9urEsR3TnbMJjoCKBT52dxhIMysk88xMcQGJjjoLZCU5yXLZ3IMMx6ZS6XSKYeJsMhEKhiK3xnw+X4ZLQajm+QwzHs6kYj96jlDx4aDa066MXPUN9Huaf/r17J+tZzp+/u2813ulq/OPyxe6az/5/MD+Q7t21gSDNACyUMgDRRy9Hdlctpliu5uYXxpTgb7uzvZd1TXfHGk4cfJMc1tHKBhoO93c2PDdF3sO1NUd/ax277XBQUHIM0xsMh6l6Zsbyl6n4h0Ngy1Hc8lo35ULVR9VHdx3sLWltamp7UbAX//V17trdh/79rjH0+Y51RIKBVl2cmz0Nj3k9fn6N256jbr0fV1/dzs/dd8EgpBlM8kYqXIhh4BIbsPzHMelSf50mk1MMtHovfHxaCQcDAwNfLDtQ6qz4VDY35th7ugSjyQeiry2qhlRyJFXyk2nuczUg6kUuVwiEU8kJsjjsiwbDofLK96lLjYeDt8Y4JJRAwjzljZvqa6pmkhRxEJ+mktPJRPMxL27dyKRv2ia9l/3e/v6enp7T7e0rl2/kbp24rC//Qf6/O8DXWebjh+rr6//ct/+T2v3VO38uLK6ekdl5bbt27e+v/W9LVsqKt4pL3/7jbfeXLN2/SvrXt2wqex/an86Rfn5PFUAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
   &gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source
-              srcset=&quot;/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/8ac56/standup3.webp 240w,
-/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/d3be9/standup3.webp 480w,
-/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/e46b2/standup3.webp 960w&quot;
+              srcset=&quot;/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/8ac56/standup3.webp 240w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/d3be9/standup3.webp 480w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/e46b2/standup3.webp 960w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/b732a/standup3.webp 1206w&quot;
               sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
               type=&quot;image/webp&quot;
             /&gt;
           &lt;source
-            srcset=&quot;/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/09b79/standup3.jpg 240w,
-/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/7cc5e/standup3.jpg 480w,
-/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/6a068/standup3.jpg 960w&quot;
+            srcset=&quot;/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/8ff5a/standup3.png 240w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/e85cb/standup3.png 480w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/d9199/standup3.png 960w,
+/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/5c744/standup3.png 1206w&quot;
             sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
-            type=&quot;image/jpeg&quot;
+            type=&quot;image/png&quot;
           /&gt;
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
-            src=&quot;/kaylees-website/static/0bda2d1653bb08b7e0fc0e6f7f98dda0/6a068/standup3.jpg&quot;
+            src=&quot;/kaylees-website/static/437b817f8aa99ac0fca3a17cd5dd2fdf/d9199/standup3.png&quot;
             alt=&quot;winning internal company award&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
