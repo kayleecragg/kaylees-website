@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 12 Jun 2025 03:32:36 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 12 Jun 2025 03:41:45 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/tennis&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -648,7 +648,111 @@ The way these games would be presented on platform (Stan) would be as individual
           /&gt;
         &lt;/picture&gt;
   &lt;/a&gt;
-    &lt;/span&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CMS Tool]]></title><description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.]]></description><link>http://kayleecragg.github.io//posts/the-origins-of-social-stationery-lettering</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/the-origins-of-social-stationery-lettering</guid><pubDate>Wed, 20 Sep 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/f60cd/standup1.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 52.5%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAABYlAAAWJQFJUiTwAAACqklEQVR42gGfAmD9AAUPhwQPkQQQmgURogYRqxUtnho2nhcyphs1rEJbrD9XrjpLriw5rDtIqDA8oQsZmAcQjgYQgwUOeQQLbwAFD4sEEJYED6AEEqoFE7EEErwDE8QDE8oEFs0hNsgiN8YfNMMMH78IGbQFFqkBEJ4ADJUEDokEDn0DDHMABRCPBBGaBROlCBeuCxu2DiC+ESXFEyfLFCfPGSzPHjDNIjPJIzLEJTO6KTavLDejMjqYFB+OAQuEBA14AAMQkwcVnHFzoZSUrJuas6iovLSzxr+8zMbE0MvJ0c3L0MzIy8jFxcK+vLu1sq+qpbSsmkJJjQAHhwYQfAAEEZQIFZ2XlKHHwLDIwbfQyb7X0Mbd1s/d19Dc1s7c1tDX0szOysXDvru6tbCrpqOwqZlKUI8ACIoHEH4AAxCUCBWfiYeerqigsKuovri1vbezw7y7w7y6xLy5wbm2wLm3sqyqsq2rs62qo56cqKGSUlePAAmMBxCAAAQRlAYTnYmHn7izqbq0sMjBvMS9ucK9vcW/vsnDwsvExMrDwcW/vsK+vL24trKsqbWtn1xgkAAJigYPfwAEEJIFEpuKiZ7GvqzKwrXYzb3k2cfn39Dp4tLq4tLm3s/h2cjd1sXQyb3CvLOtqKOtpZNhZIkAC4kGD34ABA+OBBGYY2SRiIaYgoKjgoKsfn+zdnm5bnO8Zmy9XmS8XGG3a2+xeHqoiYieZ2uPKzOKGCOGBA+HBQ96AAUOiQQQlgMPmwIQpgERsgASuwARxAAOyQANywAMygAMyQAMxQALvgAOtAQSqQYVngAOnAIOkgQOgwAIeAAEDYUEDpEED5wGEacGFLEIF7oJGcIJGcYKGsgKGscKGcUKGcAJF7kIFbEGE6cFEp8GEpQEDokJEn4mLG4WpSI2cv1ZawAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/8ac56/standup1.webp 240w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/d3be9/standup1.webp 480w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/e46b2/standup1.webp 960w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/f992d/standup1.webp 1440w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/882b9/standup1.webp 1920w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/0f958/standup1.webp 2318w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/8ff5a/standup1.png 240w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/e85cb/standup1.png 480w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/d9199/standup1.png 960w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/07a9c/standup1.png 1440w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/29114/standup1.png 1920w,
+/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/f60cd/standup1.png 2318w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/kaylees-website/static/c60ea7d28a035081c532a76faf445ece/d9199/standup1.png&quot;
+            alt=&quot;Image 1&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;th&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/78612/standup2.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAABYlAAAWJQFJUiTwAAACP0lEQVR42mPgkXHil/fhk3HmVwwAkQq+nIKaMrYt2lnfncqfJ094mtj7LLztRVzP07RJz9InP/GqeaGR/Ekn9ZN26icGPqUQfqVIfgUfQZUIIfUIUcN8Hik7Mf1UnfS3JjmvbYpeWxW8Mc97Z5n/xroQhEyy3+mmf9ADofcMooZlgqrRAqphQpqxEqbF8m7ThNTjxQyztZLvaKd/VEv4op3yVTvli3byZ+3kL1pAMgXE0Ez6BkQMMo7ThTTjhTSTxAyzpO0bVINWihkVSVhUayVd18v8pJH0xb7kjW/Do5DWx5GdD2J77gc2PNFN/aCV/BWIGGRd5wprJ4vqF0jb1Ek7tmtEbZa0rJWxb9FOvqmb8RFolXHWh+QJ99In3fGufZTYdyeq455G0ieoZmmnaSK6aZKWDbIOLTIOHdoJu+Sc2uVde7STbwE1ayZ/Nsn6aF/8xiL3rX76B5Ost6bZb4ChBdPsOFXcuEDavl3GvlnGvkM3dZ+CR6+CW69W0m2gZqAPNRK/qSV8U08EeRLIBiKITrBm5+mSFqWSlo2SFuXSwBiK3yHv1qXoOVU75ZFuxgdw8HwFhxlItTYYIWl2mCxhkiekkymqlyJhVq0Wtl7OuVk5YLFu5nvd9LfAcNZCUo2MgMYxiJm3ipvk8CuHCyj7C6hGyzpNkrKpVA3bopv5SSftLS6dmklfgX5hEDNtEtKM4ZXz4hG35BI14pP3FzfP14w7q5vxWTfjNTAxaIGiF4GAblFL+GpX9D6x+wUAjboP2S/LBf0AAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/8ac56/standup2.webp 240w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d3be9/standup2.webp 480w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/e46b2/standup2.webp 960w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/4ef06/standup2.webp 1260w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/8ff5a/standup2.png 240w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/e85cb/standup2.png 480w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d9199/standup2.png 960w,
+/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/78612/standup2.png 1260w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/kaylees-website/static/31cb49d5fc73eece527729edebff36a4/d9199/standup2.png&quot;
+            alt=&quot;Image 2&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;Caption 1&lt;/td&gt;
+&lt;td&gt;Caption 2&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;</content:encoded></item><item><title><![CDATA[CMS Tool]]></title><description><![CDATA[Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante.]]></description><link>http://kayleecragg.github.io//posts/the-origins-of-social-stationery-lettering</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/the-origins-of-social-stationery-lettering</guid><pubDate>Wed, 20 Sep 2023 22:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;strong&gt;Pellentesque habitant morbi tristique&lt;/strong&gt; senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. &lt;em&gt;Aenean ultricies mi vitae est.&lt;/em&gt; Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.&lt;/p&gt;
 &lt;hr&gt;
 &lt;p&gt;Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. &lt;a href=&quot;#&quot;&gt;Donec non enim&lt;/a&gt; in turpis pulvinar facilisis.&lt;/p&gt;
 &lt;p&gt;&lt;span
