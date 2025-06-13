@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Jun 2025 07:01:59 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Jun 2025 07:04:58 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/tennis&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -416,7 +416,56 @@ The way these games would be presented on platform (Stan) would be as individual
         &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;&lt;/p&gt;
-&lt;p&gt;My team lead gave me a few more days to tinker with it and then she invited me into a meeting with both her and my boss to showcase the abilities of this new tool.&lt;/p&gt;
+&lt;p&gt;My team lead gave me a few more days to tinker with it and then she invited me to a meeting with both her and my boss to showcase the abilities of this new tool.&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/eff3b/invitation.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 55.41666666666667%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAALCAIAAADwazoUAAAACXBIWXMAABYlAAAWJQFJUiTwAAABVklEQVR42nVRy07EMAzMl8MH8Blw4MAVIe4rJIQQFxDiIXbRAttm0zRpmledtLiJKF0eIx+SOGPP2GT5Ya4fWm1MSdmW1XRbSSmHYehnwKv3vixL59w8RRhv7u5fvAMpfFE06zda1zXyjTHDDF3XUUqFEHgAgPxIrDXe2aLeXDwuzm/OXouVsw7J+CmEEGP8IkPFuRCyTchykGzBw5Iujy+PMdZsDWPpEUopzGbh6XeOYVJOQsLwDzJHmVBJEG2oGtA2TK6J1rqqOA6s1W0KrVRSpvHSQhhln17pvUN+cML3j9jidpxFTAoIDoYx5p1DhdlkmCF7U62mjFvXWQ8x9pMuglt6el5RVuNI8tffQAlFUaAY713fx2+y80C5EypgRez6J10p/b4p68akrrPOuHcpBao2xmaf03omWB+F6hoNP0qTmADJ4XgAdBX7XeADhH6cwG7mE6bZfBviMUt3AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/8ac56/invitation.webp 240w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/d3be9/invitation.webp 480w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/e46b2/invitation.webp 960w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/f992d/invitation.webp 1440w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/882b9/invitation.webp 1920w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/5340a/invitation.webp 2072w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/8ff5a/invitation.png 240w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/e85cb/invitation.png 480w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/d9199/invitation.png 960w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/07a9c/invitation.png 1440w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/29114/invitation.png 1920w,
+/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/eff3b/invitation.png 2072w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/kaylees-website/static/242f1bf344db416e0767dbef7b4d6b10/d9199/invitation.png&quot;
+            alt=&quot;invitation&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;p&gt;This was me in that meeting demoing my prototype to them.&lt;/p&gt;
 &lt;p&gt;&lt;img src=&quot;/kaylees-website/c1318dced887b87b736240b260e76304/demo.gif&quot; alt=&quot;demo to my boss&quot;&gt;&lt;/p&gt;
 &lt;h2 id=&quot;&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#&quot; aria-label=&quot; permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;&lt;/h2&gt;
 &lt;p&gt;&lt;img src=&quot;/kaylees-website/efed62bfa6e6d1d4d305c165015bd603/kiki.gif&quot; alt=&quot;A preview of Stan&amp;#x27;s live &amp;#x26; upcoming feed on platform.&quot;&gt;&lt;/p&gt;
