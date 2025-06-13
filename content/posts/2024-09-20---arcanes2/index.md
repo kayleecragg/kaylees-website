@@ -8,36 +8,27 @@ category: "Projects"
 tags:
   - "Projects"
   - "Games"
-description: "dskjhfkdsj"
-socialImage: "./image.jpg"
+description: "Countdown web app written in good ol' HTML CSS Javascript: I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this."
+socialImage: "./face.jpg"
 ---
 
-**Pellentesque habitant morbi tristique** senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. _Aenean ultricies mi vitae est._ Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
+![Snippet of the website](/face.jpg)
 
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. [Donec non enim](#) in turpis pulvinar facilisis.
+I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.
 
-![Nulla faucibus vestibulum eros in tempus. Vestibulum tempor imperdiet velit nec dapibus](/image.jpg)
+## Features
+- Developed a Countdown website leading up to the 3 different acts of Arcane Season 2.
+- Checks viewer's local timezone via Javascript and displays exactly what time the episodes will go live in their timezone.
+- Allows users to check other timezones for when the episodes will go live.
+- Responsive background feature that cycles through images and GIFs from the new trailers at random.
 
-## Aenean viverra
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-
-Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat.
+![Gif of the website just after I had completed it](/moving.gif)
 
 <figure>
 	<blockquote>
-		<p>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus magna. Cras in mi at felis aliquet congue. Ut a est eget ligula molestie gravida. Curabitur massa. Donec eleifend, libero at sagittis mollis, tellus est malesuada tellus, at luctus turpis elit sit amet quam. Vivamus pretium ornare est.</p>
+		<p>Nothing motivates me like Arcane.</p>
 		<footer>
-			<cite>— Aliquam tincidunt mauris eu risus.</cite>
+			<cite>— unregrettably, me - circa 2024</cite>
 		</footer>
 	</blockquote>
 </figure>
-
-### Vivamus pretium
-
-- Lorem ipsum dolor sit amet, consectetuer adipiscing elit.
-- Aliquam tincidunt mauris eu risus.
-
-Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Vestibulum tortor quam, feugiat vitae, ultricies eget, tempor sit amet, ante. Donec eu libero sit amet quam egestas semper. Aenean ultricies mi vitae est. Mauris placerat eleifend leo. Quisque sit amet est et sapien ullamcorper pharetra.
-Vestibulum erat wisi, condimentum sed, commodo vitae, ornare sit amet, wisi. Aenean fermentum, elit eget tincidunt condimentum, eros ipsum rutrum orci, sagittis tempus lacus enim ac dui. Donec non enim in turpis pulvinar facilisis. Ut felis. Praesent dapibus, neque id cursus faucibus, tortor neque egestas augue, eu vulputate magna eros eu erat. Aliquam erat volutpat. Nam dui mi, tincidunt quis, accumsan porttitor, facilisis luctus, metus.

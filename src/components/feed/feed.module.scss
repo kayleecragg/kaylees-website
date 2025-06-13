@@ -56,7 +56,7 @@
     }
 
     .more {
-      color: hsl(var(--color-foreground));
+      color: hsl(var(--color-primary));
       font-size: variables.$typography-base-font-size;
 
       &:hover,

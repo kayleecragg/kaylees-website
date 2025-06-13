@@ -1,11 +1,11 @@
 {
   "title": "Blog by Kaylee Cragg",
-  "url": "https://lumen.alxshelepenok.com",
-  "description": "Pellentesque odio nisi, euismod in, pharetra a, ultricies in, diam. Sed arcu.",
+  "url": "http://kayleecragg.github.io/",
+  "description": "Hi I'm Kaylee, a Computer Science undergraduate at the UNSW.",
   "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "UA-73379983-2",
+  "googleAnalyticsId": "?",
   "pathPrefix": "kaylees-website",
-  "feedLimit": 4,
+  "feedLimit": 10,
   "menu": [
     {
       "title": "About",
@@ -27,8 +27,8 @@
   ],
   "author": {
     "title": "Kaylee Cragg",
-    "photo": "sunnies.png",
-    "description": "just a girl",
+    "photo": "/logo.png",
+    "description": "CS @ UNSW",
     "contacts": [
       {
         "name": "linkedin",

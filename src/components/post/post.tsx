@@ -22,7 +22,7 @@ const Post: FC<PostProps> = ({ post }) => {
   return (
     <div className={styles.post}>
       <div className={styles.buttons}>
-        <Button className={styles.buttonArticles} title="All Projects" to="/" />
+        <Button className={styles.buttonArticles} title="Back to Projects" to="/" />
         <ThemeSwitcher />
       </div>
       <div className={styles.content}>
