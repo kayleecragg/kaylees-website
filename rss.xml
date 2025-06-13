@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Jun 2025 07:17:41 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Blog by Kaylee Cragg]]></title><description><![CDATA[Blog by Kaylee Cragg]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Fri, 13 Jun 2025 13:50:26 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel]]></description><link>http://kayleecragg.github.io//posts/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;p&gt;&lt;a href=&quot;https://kayleecragg.github.io/tennis/&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Website&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/tennis&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
@@ -313,8 +313,9 @@ WIP with the page.
 &lt;a href=&quot;https://colab.research.google.com/drive/1jFuPN-3OMjf6p990YB8j_fsw3-JhViI0?usp=sharing&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Colab&lt;/a&gt;
 &lt;a href=&quot;https://github.com/kayleecragg/kikibot&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;Github&lt;/a&gt;&lt;/p&gt;
 &lt;h2 id=&quot;background&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#background&quot; aria-label=&quot;background permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Background&lt;/h2&gt;
-&lt;p&gt;It all started when my friend at work was complaining about having to make assets for a rugby competition. You see, in a typical rugby competition season running roughly for 12 weeks, there are on average about 120 games.
-The way these games would be presented on platform (Stan) would be as individual tiles.&lt;/p&gt;
+&lt;p&gt;It all started when my friend at work was complaining about having to make assets for a rugby competition.&lt;/p&gt;
+&lt;p&gt;You see, in a typical rugby competition season running roughly for 12 weeks, there are on average about 120 games.
+The way these games would be presented on platform would be as individual tiles.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
@@ -354,7 +355,7 @@ The way these games would be presented on platform (Stan) would be as individual
           &lt;img
             class=&quot;gatsby-resp-image-image&quot;
             src=&quot;/kaylees-website/static/696aa3404bfe9160759582540623bdd4/d9199/platform.png&quot;
-            alt=&quot;A preview of Stan&amp;#39;s live &amp;amp; upcoming feed on platform.&quot;
+            alt=&quot;A preview of the live &amp;amp; upcoming feed on platform.&quot;
             title=&quot;&quot;
             loading=&quot;lazy&quot;
             decoding=&quot;async&quot;
@@ -368,10 +369,62 @@ The way these games would be presented on platform (Stan) would be as individual
 &lt;p&gt;Secondly was the images. Yes we’d have the metadata done but what about the ‘frontend’ for the tiles? At this point,&lt;/p&gt;
 &lt;h2 id=&quot;prototype-of-image-generation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#prototype-of-image-generation&quot; aria-label=&quot;prototype of image generation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;Prototype of image generation&lt;/h2&gt;
 &lt;ul&gt;
-&lt;li&gt;Initially running locally in Python with a .xlsx file.&lt;/li&gt;
-&lt;li&gt;Selenium would manually open up the tile creator website and hit all the inputs based on the specifications in the xlsx file. (e.g; country, player names, round, competition, year, sport)&lt;/li&gt;
+&lt;li&gt;Initially running locally with Python in conjunction with an .xlsx file that had all the match information.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;&lt;em&gt;an example of what the match information format would look like in the xlsx file&lt;/em&gt;&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/kaylees-website/static/767d7881e7632877b22284c07a494645/be239/dataentry.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 39.583333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAICAYAAAD5nd/tAAAACXBIWXMAABYlAAAWJQFJUiTwAAABSklEQVR42l2S2a6CYAyEef9X80JwXxAVFUVAcUHFiHP+rwleHJPGSjvTmUHP97sqLxft93tNJhNVj4ei5VKr1UrF6aT5fK68KFS48oPAdrI8V5qm9jw9HpU4bKfTUdf35S0WC/HJ3VKSJNbvdjuVZam6rrXdblVVla7Xq5EPh0MdDgd9Ph+b831yh0ejkc29MAx/hFEUWb/ZbEzRw6lFKeQQTqdTA3L4+/3q9XoZIdjBYGBzbzabKcsyu8KFViG/n8+n4jjW/X7X7XYzAAo5CNn7/VbTNEbY7/ctDs93vgGRSeAyAowClrC6Xq9NHYTj8diOHl1uzLBMMWcPIR4kNCzRo6zNEFtk2BJiFzdtfjhAAHsopUwhai7uTfd6PQNDCJCeDMmSHrtkCxDLLQkHfoT4RhWKCJa/D4TtEeLAHsXu+Xy2nMkPZf/rD+O9V4zY4bh5AAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source
+              srcset=&quot;/kaylees-website/static/767d7881e7632877b22284c07a494645/8ac56/dataentry.webp 240w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/d3be9/dataentry.webp 480w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/e46b2/dataentry.webp 960w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/f992d/dataentry.webp 1440w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/882b9/dataentry.webp 1920w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/0277f/dataentry.webp 2173w&quot;
+              sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+              type=&quot;image/webp&quot;
+            /&gt;
+          &lt;source
+            srcset=&quot;/kaylees-website/static/767d7881e7632877b22284c07a494645/8ff5a/dataentry.png 240w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/e85cb/dataentry.png 480w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/d9199/dataentry.png 960w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/07a9c/dataentry.png 1440w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/29114/dataentry.png 1920w,
+/kaylees-website/static/767d7881e7632877b22284c07a494645/be239/dataentry.png 2173w&quot;
+            sizes=&quot;(max-width: 960px) 100vw, 960px&quot;
+            type=&quot;image/png&quot;
+          /&gt;
+          &lt;img
+            class=&quot;gatsby-resp-image-image&quot;
+            src=&quot;/kaylees-website/static/767d7881e7632877b22284c07a494645/d9199/dataentry.png&quot;
+            alt=&quot;an example of what the match information format would look like in the xlsx file&quot;
+            title=&quot;&quot;
+            loading=&quot;lazy&quot;
+            decoding=&quot;async&quot;
+            style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+          /&gt;
+        &lt;/picture&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;When ran, Selenium would manually open up the tile creator website and hit all the inputs based on the specifications in the xlsx file. (e.g; country, player names, round, competition, year, sport)&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;img src=&quot;/kaylees-website/811fc3f6438b59470012ec8f6c058838/kikibot.gif&quot; alt=&quot;video of how selenium would run&quot;&gt;&lt;/p&gt;
+&lt;p&gt;I messaged my team lead, excited to show her my new creation.&lt;/p&gt;
 &lt;p&gt;&lt;span
       class=&quot;gatsby-resp-image-wrapper&quot;
       style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;
@@ -708,7 +761,7 @@ The way these games would be presented on platform (Stan) would be as individual
 &lt;li&gt;Made with HTML, CSS, Javascript, hosted on Firebase. I scraped all the information from my company’s website. (Stan)&lt;/li&gt;
 &lt;li&gt;Developed a web app that acts as a CMS (content management system) tool to help organize large volumes of assets on Bebanjo Movida.&lt;/li&gt;
 &lt;li&gt;Initially created to demo a non‑functioning tool to pitch to the workplace’s product team.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[art (digital & traditional)]]></title><description><![CDATA[All my art stuff that I've ever done]]></description><link>http://kayleecragg.github.io//posts/art</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/art</guid><pubDate>Thu, 01 Sep 2016 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Art]]></title><description><![CDATA[In another life]]></description><link>http://kayleecragg.github.io//posts/art</link><guid isPermaLink="false">http://kayleecragg.github.io//posts/art</guid><pubDate>Fri, 01 Sep 2017 23:46:37 GMT</pubDate><content:encoded>&lt;hr&gt;
 &lt;h4 id=&quot;end-of-the-world&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#end-of-the-world&quot; aria-label=&quot;end of the world permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;end of the world&lt;/h4&gt;
 &lt;h4 id=&quot;loid-test-animation&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#loid-test-animation&quot; aria-label=&quot;loid test animation permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;loid test animation&lt;/h4&gt;
 &lt;h4 id=&quot;video-of-sketchbook-for-all-drawings&quot; style=&quot;position:relative;&quot;&gt;&lt;a href=&quot;#video-of-sketchbook-for-all-drawings&quot; aria-label=&quot;video of sketchbook for all drawings permalink&quot; class=&quot;anchor before&quot;&gt;&lt;svg aria-hidden=&quot;true&quot; focusable=&quot;false&quot; height=&quot;16&quot; version=&quot;1.1&quot; viewBox=&quot;0 0 16 16&quot; width=&quot;16&quot;&gt;&lt;path fill-rule=&quot;evenodd&quot; d=&quot;M4 9h1v1H4c-1.5 0-3-1.69-3-3.5S2.55 3 4 3h4c1.45 0 3 1.69 3 3.5 0 1.41-.91 2.72-2 3.25V8.59c.58-.45 1-1.27 1-2.09C10 5.22 8.98 4 8 4H4c-.98 0-2 1.22-2 2.5S3 9 4 9zm9-3h-1v1h1c1 0 2 1.22 2 2.5S13.98 12 13 12H9c-.98 0-2-1.22-2-2.5 0-.83.42-1.64 1-2.09V6.25c-1.09.53-2 1.84-2 3.25C6 11.31 7.55 13 9 13h4c1.45 0 3-1.69 3-3.5S14.5 6 13 6z&quot;&gt;&lt;/path&gt;&lt;/svg&gt;&lt;/a&gt;video of sketchbook for all drawings&lt;/h4&gt;
