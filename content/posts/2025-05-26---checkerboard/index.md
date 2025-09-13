@@ -3,11 +3,11 @@ title: "Tennis Checkerboard"
 date: "2025-05-26T14:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/checkerboard"
+slug: "/projects/checkerboard"
 category: "Projects"
 tags:
-  - "Projects"
-description: "Making a project while on shift: HTML web app coupled with a Node server hosted on Vercel"
+  - "development"
+description: "HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)"
 socialImage: "./checkerboard.png"
 ---
 <figure style="text-align: center;">
@@ -23,6 +23,8 @@ socialImage: "./checkerboard.png"
 - Developed a real-time tennis tournament checkerboard web application using **HTML/CSS/JavaScript** that aggregates live match data from a custom-made API (hosted on **Vercel**).
 - Able to give notifications when a match changes court or players.
 - Widely used by my company’s live operations team during large tennis tournaments to keep up to date on court and player changes, as well as to keep track of the matches on their assigned court.
+
+# Making a project while on shift
 
 <figure>
   <img src="/checkerboard1.jpg" alt="notification preview" />

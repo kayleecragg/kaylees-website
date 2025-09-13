@@ -3,11 +3,11 @@ title: "Ascension v0.0.1"
 date: "2025-05-07T11:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/ascensionv0.0.1"
+slug: "/projects/ascensionv0.0.1"
 category: "Projects"
 tags:
-  - "Projects"
-description: "Roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF"
+  - "development"
+description: "Roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF."
 socialImage: "./ascension.png"
 ---
 <figure style="text-align: center;">
@@ -36,8 +36,6 @@ I wished they explored more of his backstory and his point of view. Here are som
 > At one point in his time as a Supreme, Hua Cheng challenged 35 gods. 33 of them were those that chased away Xie Lian from the spiritual mountain, as well as Mu Qing and Feng Xin. If they won against him, he would give them his ashes to scatter. If he won, they would have to step down from Heaven. Mu Qing and Feng Xin both ignored the challenge, but the others took it on as they believed themselves to be superior. He fought the Martial Gods and debated against the Civil Gods, resulting in their utter defeat.
 
 >However, the gods refused to honor their agreement, pretending that the fight and the preceding agreement never took place. Hua Cheng decided to help them fulfill their promise by burning down the 33 gods' temples in the human realm. This act caused an uproar and Hua Cheng got the moniker "Heaven's Scourge".
----
-> After the defeat of the martial gods, it came time for the civil gods to rise to the challenge. Surely Hua Cheng could fight, but not debate? Unfortunately for the civil gods, they could not defeat him. Hua Cheng could recite the classics and debate the contemporaries. He was sometimes polite, sometimes vicious, sometimes unyielding, sometimes incisive, and sometimes quibbling. He was impenetrably sharp, his arguments flawless. He verbally abused the civil gods from top to bottom, past to present, and infuriated them so much that they puked blood and washed the skies red.
 
 I wanted to make a game from his perspective. I also was inspired by twitter user [@akkaccel's](https://x.com/akkaccel/) concept art of a potential TGCF game. 
 
@@ -45,7 +43,7 @@ I wanted to make a game from his perspective. I also was inspired by twitter use
   <a href="https://x.com/akkaccel/status/1493084468537659393?s=46">
     <img src="/tgcfrpg.jpeg" />
   </a>
-  <figcaption>Twitter user @akkaccel you're doing the lord's work</figcaption>
+  <figcaption>one of four of twitter user @akkaccel's concept art for a potential TGCF video game</figcaption>
 </figure>
 
 
@@ -60,6 +58,11 @@ There were a few main areas I could start from:
 - Meeting Xie Lian again + main story
 
 I decided to go with the 33 heavenly officials plot because it seemed the most clear cut narrative and straightforward gameplay; fighting people, maybe Ace Attorney style debating, maybe some burning down of temples.
+
+<figure>
+  <img src="/outline.png"/>
+  <figcaption>Gameplay Sequence Flow Diagram</figcaption>
+</figure>
 
 ## The First Prototype
 
@@ -83,41 +86,7 @@ So currently what we had was:
 
 ### Second Day
 
-The next day, I showed this version to my friends, and one of my friends said he wanted to contribute, so that very night we started working on it together. I thought I should implement a wave structure to the game to make it more longlasting.
-
-<figure>
-  <img src="/ascension3.png" alt="gameplay preview" />
-  <figcaption>Early ranged attack gameplay preview</figcaption>
-</figure>
-
-- 6 Waves
-- Player 300 hp >> 100 hp
-- Player and enemy health bars instead of a number
-- enemies attack u 
-- diff kinds of enemies (ranged, charging, melee)
-- teleport feature broken
-
-**Bugs:**
-- teleport feature broken
-
-### Third Day
-
-- dodge ability
-- teleport limited range
-- balancing for enemies
-
-**Bugs:**
-- dodge slowing down time literally, it pauses the game
-- you can't move when teleporting
-
-### Fourth Day
-
-- can move during teleport
-- dodge no longer slows time
-- health regen orbs drop when enemies die
-
-**Bugs:**
-- health regen drop too low chance
+The next day, I added some dialogue options and a placeholder debate section. 
 
 <figure>
   <img src="/ascension1.png" alt="hua cheng" />
@@ -125,7 +94,137 @@ The next day, I showed this version to my friends, and one of my friends said he
 </figure>
 <figure>
   <img src="/ascension2.png" alt="angry heavenly official" />
-  <figcaption>Gameplay image of masked out image of Shi Qing Xuan, though the dialogue doesn't fit his personality</figcaption>
+  <figcaption>Gameplay of masked out image of Shi Qing Xuan, though the dialogue doesn't fit his personality</figcaption>
 </figure>
 
-*WIP, more to come.*
+I showed this version to my friends, and one of my friends said he wanted to contribute, so that very night we started working on it together. I thought I should implement a wave structure to the game to make it more longlasting.
+
+<figure>
+  <img src="/waves.png"/>
+  <figcaption>Final wave logic</figcaption>
+</figure>
+
+- 6 Waves
+- Player 300 hp >> 100 hp
+- Player and enemy health bars instead of a number
+- enemies attack u 
+- diff kinds of enemies (ranged, charging, melee)
+<!-- - I also recorded myself for some sound effects... One day I'll switch these out for proper audio effects but for now I'll leave them in as placeholders   -->
+
+<!-- <figure>
+  <audio controls controlsList="nodownload">
+    <source src="cooldown_blocked.mp3" type="audio/mpeg">
+  </audio>
+  <figcaption>Cooldown Blocked Sound Effect</figcaption>
+</figure>
+
+<figure>
+  <audio controls controlsList="nodownload">
+    <source src="player_hit.mp3" type="audio/mpeg">
+  </audio>
+  <figcaption>Player Hit Sound Effect</figcaption>
+</figure>
+
+<figure>
+  <audio controls controlsList="nodownload">
+    <source src="playerRanged.mp3" type="audio/mpeg">
+  </audio>
+  <figcaption>Player Ranged Attack Sound Effect</figcaption>
+</figure> -->
+
+
+
+<figure>
+  <img src="/gif_balancing.gif"/>
+  <figcaption>Iterating on design choices for certain enemy types</figcaption>
+</figure>
+
+<figure>
+  <img src="/gif_balancing1.gif"/>
+  <figcaption>Discussing balancing for enemy types</figcaption>
+</figure>
+
+**Fixes:**
+- teleport feature too broken (TOO GOOD), there was no range and the cooldown was ridiculously low
+
+<figure>
+  <img src="/gif_teleport.gif">
+  <figcaption>playtesting the teleport feature, mutual agreement that it was too overpowered</figcaption>
+</figure>
+
+- glitch: cannot die
+
+<figure>
+  <img src="/gif_glitchimmortal.gif">
+  <figcaption>while playtesting we ran into a glitch where the player does not take damage from certain actions</figcaption>
+</figure>
+
+### Third Day
+
+We were still concerned about the difficulty of the game, 
+<figure>
+  <img src="/gif_difficulty.gif">
+  <figcaption>My friend commenting on the difficulty level of the game</figcaption>
+</figure>
+
+We also added some new features:
+- dodge ability
+- limited the range of the teleport ability
+- Balanced enemies
+
+**Fixes:**
+- We found an unintended bug where the dodge ability literally slows down time, including the environment.
+
+<figure>
+  <img src="/gif_baddodge.gif"/>
+  <figcaption>Dodge ability slows down the environment, enemies, projectiles</figcaption>
+</figure>
+
+- While playtesting, we also found a bug where you can't move while casting teleport. We realised it was unintuitive and unsatisfying to use, so we decided to change that.
+
+<figure>
+  <img src="/gif_badteleport1.gif">
+  <figcaption>Player cannot move during teleport.</figcaption>
+</figure>
+
+<figure>
+  <img src="/gif_badteleport.gif">
+  <figcaption>Unintuitive and hard to get used to.</figcaption>
+</figure>
+
+
+### Fourth Day
+
+- can move during teleport
+
+<figure>
+  <img src="/gif_goodteleport.gif">
+  <figcaption>teleport bug fixed so you can now move when activating teleport</figcaption>
+</figure>
+
+- dodge no longer slows time
+- health regen orbs drop when enemies die
+
+<figure>
+  <img src="/gif_orbdrop.gif">
+  <figcaption>health regen orb drops</figcaption>
+</figure>
+
+**Fixes:**
+- health regen drop too low chance
+
+- Made Mac and Window executables and uploaded it in a release on github! And the windows version can self-update. (I think.) Asked my non tech friends to try it out and it worked for them 
+<figure>
+  <img src="/release.png" />
+  <figcaption>Created a release for the game on github! so exciting</figcaption>
+</figure>
+
+### Things we have left to do:
+
+- Dungeon style
+- Shops, rooms with BOSSES
+- Debate section
+- Burning down temples
+
+
+WIP, more to come.

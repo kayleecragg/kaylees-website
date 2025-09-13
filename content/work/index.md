@@ -1,11 +1,18 @@
 ---
 title: "Work Experience"
 template: "page"
-socialImage: ""
+socialImage: "./image.jpg"
 ---
+### Unnamed Company
+<span style="color:gray">Pipeline Technical Director Intern | Jul 2025 - Oct 2025</span><br>
+- Worked on a versioning upgrade for an existing proprietary tool within Nuke.
+- Rewrote outdated tests for widely‑used proprietary library.
+- Responded to Jira support tickets submitted by artists, releasing updates affecting global digital content creation software environments.
+<br>**Technologies:** : Python, Linux, Perforce, Git, Jira, Nuke, Houdini
+
 ### Dolby
 <span style="color:gray">Software Engineering Intern | Dec 2024 - Feb 2025</span><br>
-I worked on system level development on the integration team, and built a multi‑screen GUI application for the TV designed to facilitate  setup of [**Dolby's FlexConnect system**](https://www.dolby.com/technologies/dolby-atmos/dolby-atmos-flexconnect/) that was included in a release for user testing.
+I worked on system level development on the integration team, and built a multi‑screen GUI application for the TV designed to facilitate  setup of [Dolby's FlexConnect system](https://www.dolby.com/technologies/dolby-atmos/dolby-atmos-flexconnect/) that was included in a release for user testing.
 
 I also conducted an exploratory investigation into possible off the shelf methods of mapping utilising a raspberry pi mic array.
 <br><br>
@@ -13,7 +20,7 @@ I also conducted an exploratory investigation into possible off the shelf method
 
 ### Google
 <span style="color:gray">Customer Engineering Intern | Jun 2024 - Aug 2024</span><br>
-During my time at Google, I developed and showcased three generative AI applications for clients under Google Cloud as well as participated and presented in an internal Google‑wide AI hackathon.
+During my time at Google, I developed and showcased three applications for clients under Google Cloud as well as participated and presented in an internal Google‑wide hackathon.
 
 Additionally, I was awarded a recognition peer bonus award for contributing to the creation of Vertex Search dataset for Agents API launch.<br><br>
 **Technologies:** Python, Flask, Reactjs, Streamlit, GCP, Gemini, Docker, Git
@@ -33,8 +40,8 @@ Learnt about **OCaml** and **functional programming**, and created a game in OCa
 <span style="color:gray">Live Operations Assistant | Jul 2022 - Present</span><br>
 This role was also mainly broadcasting, where I was responsible for the live‐streaming and VOD delivery of events with up to 300k+ live viewers *(tennis grand slams, european football - UEFA, rugby, pfl etc)*, but as a side quest I:
 
-- created a set of [Jupyter notebooks](/posts/kikibot) utilizing Python, Selenium, Puppeteer, Google Sheets API and Google Colab to automate the creation and uploading of shells/assets and platform images, enhancing workflow efficiency and reducing human rate of error tenfold **(40 to 4 hours per day)**
-- created a real-time tennis tournament [checkerboard](/posts/checkerboard) web application using HTML & Javascript that aggregates live match data from a custom-made API
+- created a set of [Jupyter notebooks](/projects/kikibot) utilizing Python, Selenium, Puppeteer, Google Sheets API and Google Colab to automate the creation and uploading of shells/assets and platform images, enhancing workflow efficiency and reducing human rate of error tenfold **(40 to 4 hours per day)**
+- created a real-time tennis tournament [checkerboard](/projects/checkerboard) web application using HTML & Javascript that aggregates live match data from a custom-made API
 - optimised an existing Google Sheets workflow by integrating advanced formulas, enhancing time efficiency by **471%**
 - trained new staff on operational workflows.
 **Technologies:** Python, Selenium, Google Colab, Google Sheets API, HTML, Javascript, Git

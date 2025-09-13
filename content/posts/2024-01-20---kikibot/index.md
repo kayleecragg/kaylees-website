@@ -3,10 +3,10 @@ title: "Kikibot"
 date: "2024-01-20T13:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/kikibot"
+slug: "/projects/kikibot"
 category: "Projects"
 tags:
-  - "Projects"
+  - "development"
 description: "Automated Asset and Image Creation made in Python (Selenium, Google Sheets API, Colab) that enhanced workflow efficiency tenfold, turning 40 hours into 4 hours."
 socialImage: "./postbot.png"
 ---
@@ -41,7 +41,7 @@ The way these games would be presented on platform would be as individual tiles.
 
 So how do all these tiles get made? <span style="background-color: black; color: black; padding: 0 0.4em;">In the backend, someone would have to have made two sets of “assets” to form one individual tile.<br>Firstly was the metadeta, or what we call, ‘shells’. We made them in Google Sheets, then imported them into our content management system. they were typically around 4 rows, a row for the main asset, and subsequent ‘opens’ or other assets linked to the main asset like mini matches, highlights, and rapid recaps. Each row had 20 or more columns to them that had information spanning anywhere from the type of competition it was, e.g ‘Shute Shield’ to the year or the round of that particular game. And mind you, all that for one game. If you multiply these 4 rows and 20+ columns by 120, you could see how much work that would be.<br>Secondly was the images. Yes we’d have the metadata done but what about the ‘frontend’ for the tiles? At this point-</span>
 
-**TLDR: It's very difficult and boring to make tiles for platform.**
+**TLDR: It's very boring to make tiles for platform.**
 
 So to save my friend from hours of tedious work, I spent three days brainstorming and experimenting to find a solution. Previously, I had heard of **Selenium** being used as test automation software to perform integration tests on websites like Amazon. 
 

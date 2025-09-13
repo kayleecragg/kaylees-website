@@ -17,7 +17,7 @@
   @include mixins.padding(0, 1);
 
   &:hover, &:focus {
-    color: hsl(var(--color-accent-foreground));
-    background: hsl(var(--color-accent));
+    color: hsl(var(--color-primary));
+    // background: hsl(var(--color-accent));
   }
 }

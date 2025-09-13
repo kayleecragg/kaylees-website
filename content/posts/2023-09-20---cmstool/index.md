@@ -3,10 +3,10 @@ title: CMS Tool
 date: "2023-09-20T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/the-origins-of-social-stationery-lettering"
+slug: "/projects/CMS-Tool"
 category: "Projects"
 tags:
-  - "Projects"
+  - "development"
 description: "Web app demo of upgraded content management system to pitch to workplace's product team."
 socialImage: "./cms.png"
 ---

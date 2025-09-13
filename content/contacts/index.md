@@ -1,10 +1,10 @@
 ---
 title: "Contact me"
 template: "page"
-socialImage: ""
+socialImage: "./image.jpg"
 ---
 
 Here are some ways you can reach me:
 
-- kayleecragg1 at gmail dot com.
+- kayleeanncragg at gmail dot com.
 - [github.com/kayleecragg](https://www.github.com/kayleecragg) to see some of my work.

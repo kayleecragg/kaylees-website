@@ -3,12 +3,11 @@ title: "Arcane Season 2 Countdown"
 date: "2024-09-23T22:40:32.169Z"
 template: "post"
 draft: false
-slug: "/posts/arcane-s2"
+slug: "/projects/arcane-s2"
 category: "Projects"
 tags:
-  - "Projects"
-  - "Games"
-description: "Countdown web app written in good ol' HTML CSS Javascript: I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this."
+  - "development"
+description: "Countdown web app written in HTML, CSS, Javascript."
 socialImage: "./face.jpg"
 ---
 <figure style="text-align: center;">

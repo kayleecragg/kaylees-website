@@ -29,6 +29,10 @@
 
     .buttonArticles {
       @include mixins.margin(0, 0.5, 0, 0);
+      color: hsl(var(--color-foreground));
+      &:hover, &:focus {
+        color: hsl(var(--color-primary));
+      }
     }
   }
 }

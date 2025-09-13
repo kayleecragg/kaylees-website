@@ -22,7 +22,7 @@ const Post: FC<PostProps> = ({ post }) => {
   return (
     <div className={styles.post}>
       <div className={styles.buttons}>
-        <Button className={styles.buttonArticles} title="Back to Projects" to="/" />
+        <Button className={styles.buttonArticles} title="All Projects" to="/projects" />
         {/* <ThemeSwitcher /> */}
       </div>
       <div className={styles.content}>
@@ -31,6 +31,7 @@ const Post: FC<PostProps> = ({ post }) => {
       <div className={styles.footer}>
         <PostFooter date={date} />
         {tags && tagSlugs && <PostTags tags={tags} tagSlugs={tagSlugs} />}
+        <a href="/projects">See all projects.</a>
         <PostAuthor />
       </div>
     </div>

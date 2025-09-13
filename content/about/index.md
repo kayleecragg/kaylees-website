@@ -1,14 +1,14 @@
 ---
 title: "Introducing Me"
 template: "page"
-socialImage: ""
+socialImage: "./image.jpg"
 slug: "/"
 ---
 Hi, I’m **Kaylee!**
 
 I am currently an undergraduate pursuing a Bachelor of Computer Science at the University of New South Wales (UNSW).
 
-In the past, I have worked on various [projects](/)
+In the past, I have worked on various [projects](/projects)
  and at various [companies](/work/).
 
 ## About the website

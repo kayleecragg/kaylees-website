@@ -3,11 +3,11 @@ title: "Art"
 date: "2017-09-01T23:46:37.121Z"
 template: "post"
 draft: false
-slug: "/posts/art"
+slug: "/projects/art"
 category: "art"
 tags:
-  - "Art"
-description: "10 years ago I was really into art. Here's some of the things I've made."
+  - "art"
+description: "My art (10 years ago)."
 socialImage: "./kaneki3.jpg"
 ---
 <!-- 
@@ -57,7 +57,7 @@ socialImage: "./kaneki3.jpg"
   </div>
 </div> -->
 
-**end of the world (23 dec 2022)**
+<div style="font-weight: bold; margin-bottom: 8px;">end of the world (23 dec 2022)</div>
 
 <figure>
   <img src="/purple_4k.png"/>
@@ -77,6 +77,21 @@ The .blend files that I made are [here](https://drive.google.com/file/d/1rp7SNRW
 
 
 ---
+
+
+
+<div style="font-weight: bold; margin-bottom: 8px;">cut me open (16 december 2016)</div>
+<div style="display: flex; justify-content: center; gap: 40px;">
+  <figure style="flex: 1; text-align: center;">
+    <img src="/cutmeopen1.jpg"style="width: 100%; height: auto;">
+    <figcaption>It was actually meant to be in full colour, with bright crimson and pinks to show how raw the inner flesh was, but I was indecisive whether to colour everything in or not.</figcaption>
+  </figure>
+  <figure style="flex: 1; text-align: center;">
+    <img src="/cutmeopen.jpg" style="width: 100%; height: auto;">
+    <figcaption>The final, i think i was too burnt out to colour in everything, decided on black and white look.</figcaption>
+  </figure>
+</div>
+
 
 <div style="display: flex; justify-content: center; gap: 40px;">
   <figure style="flex: 1; text-align: center;">
@@ -103,9 +118,19 @@ The .blend files that I made are [here](https://drive.google.com/file/d/1rp7SNRW
     <img src="/kaneki2.jpg" style="width: 100%; height: auto;">
     <figcaption>I eventually sold this to my friend in exchange for a $10 KFC meal, so I guess my first commission was worth $10 :-D</figcaption>
   </figure>
-  <figure style="flex: 1; text-align: center;">
-    <img src="/kaneki3.jpg" style="width: 100%; height: auto;">
-    <figcaption>Initially used pen, white out, and copic markers.</figcaption>
-  </figure>
 </div>
 
+<figure style="flex: 1; text-align: center;">
+  <img src="/kaneki3.jpg" style="width: 100%; height: auto;">
+  <figcaption>Initially used pen, white out, and copic markers.</figcaption>
+</figure>
+
+<div style="font-weight: bold; margin-bottom: 8px;">and beyond...</div>
+
+I be I've always been passionate about art. My parents encourage it, and sent me to art classes since I was 5 years old.
+<figure style="flex: 1; text-align: center;">
+  <img src="/youngme.jpg" style="width: 100%; height: auto;">
+  <figcaption>My painting in an exhibition when I was 6.</figcaption>
+</figure>
+
+[art insta here](https://www.instagram.com/almostdeafened/)
