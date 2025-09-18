@@ -5,17 +5,15 @@ socialImage: "./image.jpg"
 ---
 ### Unnamed Company
 <span style="color:gray">Pipeline Technical Director Intern | Jul 2025 - Oct 2025</span><br>
-- Worked on a versioning upgrade for an existing proprietary tool within Nuke.
-- Rewrote outdated tests for widely‑used proprietary library.
-- Responded to Jira support tickets submitted by artists, releasing updates affecting global digital content creation software environments.
-<br>**Technologies:** : Python, Linux, Perforce, Git, Jira, Nuke, Houdini
+- Worked on a versioning upgrade and wrote test cases for an existing proprietary tool within Nuke.
+- Responded to Jira support tickets submitted by artists
+**Technologies:** : Python, Linux, Perforce, Git, Jira, Nuke, Houdini, Pytest
 
 ### Dolby
 <span style="color:gray">Software Engineering Intern | Dec 2024 - Feb 2025</span><br>
-I worked on system level development on the integration team, and built a multi‑screen GUI application for the TV designed to facilitate  setup of [Dolby's FlexConnect system](https://www.dolby.com/technologies/dolby-atmos/dolby-atmos-flexconnect/) that was included in a release for user testing.
-
-I also conducted an exploratory investigation into possible off the shelf methods of mapping utilising a raspberry pi mic array.
-<br><br>
+- Worked on system level development on the integration team
+- Built a multi‑screen GUI application for the TV designed to facilitate setup of [Dolby's FlexConnect system](https://www.dolby.com/technologies/dolby-atmos/dolby-atmos-flexconnect/) that was included in a release for user testing.
+- Conducted an exploratory investigation into possible off the shelf methods of mapping utilising a raspberry pi mic array.
 **Technologies:** Python, C, Kotlin, Linux, Git
 
 ### Google

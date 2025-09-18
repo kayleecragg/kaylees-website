@@ -3,7 +3,7 @@ title: "Ascension v0.0.1"
 date: "2025-05-07T11:46:37.121Z"
 template: "post"
 draft: false
-slug: "/projects/ascensionv0.0.1"
+slug: "/projects/ascension"
 category: "Projects"
 tags:
   - "development"
