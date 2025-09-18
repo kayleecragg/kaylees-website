@@ -7,7 +7,7 @@ socialImage: "./image.jpg"
 <span style="color:gray">Pipeline Technical Director Intern | Jul 2025 - Oct 2025</span><br>
 - Worked on a versioning upgrade and wrote test cases for an existing proprietary tool within Nuke.
 - Responded to Jira support tickets submitted by artists
-**Technologies:** : Python, Linux, Perforce, Git, Jira, Nuke, Houdini, Pytest
+**Technologies:** Python, Linux, Perforce, Git, Jira, Nuke, Houdini, Pytest
 
 ### Dolby
 <span style="color:gray">Software Engineering Intern | Dec 2024 - Feb 2025</span><br>
