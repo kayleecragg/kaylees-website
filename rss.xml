@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Oct 2025 10:47:23 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Thu, 02 Oct 2025 10:51:47 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 51.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAABYlAAAWJQFJUiTwAAABqklEQVR42iVS2ZKbMBDkOcfGmEMY2yAJdI8ODuP1ptb5/7/KYKtGXWr1qOehlR3y/HBAyI9HrOMbkfZ975wDADGOu5q/1Pchz1/9x6zrrthX13VRlEVZ7oi7rNCvJgTrzyFHWpTVG1HbV1UfizKjlDE2dj1vr/R8pZeOnTvWXjrSnKq6IaeWtJeqJlXTIpLTuT61FWlq0hZlnXExDkaiA+e8Y1QOgzeGs3313VUMAyhFac8Y7a4XMXCnFKM933mXca/d9wre+yXZNcEwPGII4JIHo6Qfx2eK4FwAMFIGIf7GGByqHk0zo/3n8nTWT9MSXeq9Ul+zRj16kSDw4dtBsDY6p8fRjeMnBKM13hghMtDjY/EpwDTNVhvpxbJ5HAVT1NYMVqK3NSYEL63xin/N1oOfUlQ4ORj63NQyT/f73WI0kj5mnRLSzWorvJj/TR5smJIFiJZ+3/S6zNiMQWZGsvukQ4y3280YBxofq3V5ezkn2RZUSvG+bUobq7DZIF3X1RiTYZZN0xDSvJC0p6Zt22qPhWCcr++Qf/z+QPXHz1+g+uemY0o4yVr7H2v4U2wujfnbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -491,7 +491,8 @@
 I guess, if you’re still here, I’m trying to make this game in Unreal Engine and C++! :)
 Stay tuned I guess!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arcane Season 2 Countdown]]></title><description><![CDATA[Countdown web app written in HTML, CSS, Javascript.]]></description><link>http://kayleecragg.github.io//projects/arcane-s2</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/arcane-s2</guid><pubDate>Mon, 23 Sep 2024 22:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5DRdJGC//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhAAL/2gAIAQEAAQUCExr7X//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEEL/2gAIAQEABj8CM1T/xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhEDFBsf/aAAgBAQABPyGNqrj6NBJwrZAzwx//2gAMAwEAAgADAAAAEADP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACEQMWFx/9oACAEBAAE/EE6bjxw+4lQInyuadpi1hBgl4f/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+      &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f87ecef8dae176b5dac8f1a85d09d37c/b8806/face.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
+    &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5DRdJGC//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhAAL/2gAIAQEAAQUCExr7X//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEEL/2gAIAQEABj8CM1T/xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhEDFBsf/aAAgBAQABPyGNqrj6NBJwrZAzwx//2gAMAwEAAgADAAAAEADP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACEQMWFx/9oACAEBAAE/EE6bjxw+4lQInyuadpi1hBgl4f/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
           &lt;source srcset=&quot;/static/f87ecef8dae176b5dac8f1a85d09d37c/8ac56/face.webp 240w,
 /static/f87ecef8dae176b5dac8f1a85d09d37c/d3be9/face.webp 480w,
@@ -507,11 +508,10 @@ Stay tuned I guess!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arca
 /static/f87ecef8dae176b5dac8f1a85d09d37c/b8806/face.jpg 2920w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
           &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/f87ecef8dae176b5dac8f1a85d09d37c/6a068/face.jpg&quot; alt=&quot;wip title page&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
         &lt;/picture&gt;
+  &lt;/a&gt;
     &lt;/span&gt;
-  &lt;figcaption&gt;I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.&lt;/figcaption&gt;&lt;br&gt;
+  &lt;figcaption&gt;I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.&lt;/figcaption&gt;
   &lt;b&gt;&lt;div style=&quot;display: flex; justify-content: center; gap: 1rem;&quot;&gt;
-    &lt;a href=&quot;https://kayleecragg.github.io/arcane&quot; target=&quot;_blank&quot;&gt;Website&lt;/a&gt;
-    &lt;a href=&quot;https://github.com/kayleecragg/arcane&quot; target=&quot;_blank&quot;&gt;Github&lt;/a&gt;
   &lt;/div&gt;
   &lt;b&gt;
 &lt;/b&gt;&lt;/b&gt;&lt;/figure&gt;
@@ -542,10 +542,10 @@ Stay tuned I guess!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arca
         &lt;/picture&gt;
   &lt;/a&gt;
     &lt;/span&gt;
-  &lt;p&gt;&lt;b&gt;From 40 hours to 4 hours&lt;b&gt;&lt;/b&gt;&lt;/b&gt;&lt;/p&gt;&lt;b&gt;&lt;b&gt;
+  &lt;p&gt;&lt;b&gt;From 40 hours to 4 hours&lt;/b&gt;&lt;/p&gt;&lt;b&gt;
   &lt;div style=&quot;display: flex; justify-content: center; gap: 1rem;&quot;&gt;
   &lt;/div&gt;
-&lt;/b&gt;&lt;/b&gt;&lt;/figure&gt;
+&lt;/b&gt;&lt;/figure&gt;
 &lt;ul&gt;
 &lt;li&gt;Created a set of Jupyter notebooks to automate the creation and uploading of assets and platform images, enhancing workflow efficiency tenfold.&lt;/li&gt;
 &lt;li&gt;Scraped competition pages using &lt;strong&gt;Selenium&lt;/strong&gt; + &lt;strong&gt;Puppeteer&lt;/strong&gt; for easy acquisition of match and player data&lt;/li&gt;
