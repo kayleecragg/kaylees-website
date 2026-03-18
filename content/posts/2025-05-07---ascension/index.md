@@ -7,7 +7,8 @@ slug: "/projects/ascension"
 category: "Projects"
 tags:
   - "development"
-description: "Roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF."
+  - "ascension"
+description: "Demo roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF."
 socialImage: "./ascension.png"
 ---
 <figure style="text-align: center;">
@@ -16,7 +17,6 @@ socialImage: "./ascension.png"
   <b><div style="display: flex; justify-content: center; gap: 1rem;">
     <a href="https://github.com/kayleecragg/ascension/releases/download/v0.0.1/Ascension_32.zip" target="_blank">Play (Windows)</a>
     <a href="https://github.com/kayleecragg/ascension/releases/download/beta/Ascension_osx.zip" target="_blank">Play (Mac, older version)</a>
-    <a href="https://github.com/kayleecragg/ascension" target="_blank">Github</a>
   </div>
   <b>
 </figure>
@@ -226,5 +226,7 @@ We also added some new features:
 - Debate section
 - Burning down temples
 
-
-WIP, more to come.
+*(These are not happening lol)*
+<br><br>
+I guess, if you're still here, I'm trying to make this game in Unreal Engine and C++! :)
+Stay tuned I guess!

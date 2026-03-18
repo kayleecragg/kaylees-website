@@ -23,7 +23,7 @@ const Post: FC<PostProps> = ({ post }) => {
     <div className={styles.post}>
       <div className={styles.buttons}>
         <Button className={styles.buttonArticles} title="All Projects" to="/projects" />
-        {/* <ThemeSwitcher /> */}
+        {<ThemeSwitcher/>}
       </div>
       <div className={styles.content}>
         <PostContent body={html} title={title} />

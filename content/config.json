@@ -5,15 +5,11 @@
   "copyright": "© All rights reserved.",
   "googleAnalyticsId": "G-LL5G69595W",
   "pathPrefix": "/",
-  "feedLimit": 10,
+  "feedLimit": 4,
   "menu": [
     {
       "title": "About",
       "url": "/"
-    },
-    {
-      "title": "Work Experience",
-      "url": "/work"
     },
     {
       "title": "Projects",
@@ -27,7 +23,7 @@
   "author": {
     "title": "Kaylee Cragg",
     "photo": "/logo.png",
-    "description": "CS @ UNSW",
+    "description": "just a girl",
     "contacts": [
       {
         "name": "github",

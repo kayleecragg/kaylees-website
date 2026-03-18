@@ -12,17 +12,15 @@ socialImage: "./face.jpg"
 ---
 <figure style="text-align: center;">
   <img src="/face.jpg" alt="wip title page" />
-  <figcaption>I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.</figcaption><br>
+  <figcaption>I loved Arcane S1 so much in 2021 that when the dates came out for S2 something compelled me to make this.</figcaption>
   <b><div style="display: flex; justify-content: center; gap: 1rem;">
-    <a href="https://kayleecragg.github.io/arcane" target="_blank">Website</a>
-    <a href="https://github.com/kayleecragg/arcane" target="_blank">Github</a>
   </div>
   <b>
 </figure>
 
 ## Features
-- Developed a Countdown website with **HTML** leading up to the 3 different acts of Arcane Season 2.
-- Checks viewer's local timezone via **Javascript** and displays exactly what time the episodes will go live in their timezone.
+- Developed a Countdown website with HTML leading up to the 3 different acts of Arcane Season 2.
+- Checks viewer's local timezone via Javascript and displays exactly what time the episodes will go live in their timezone.
 - Allows users to check other timezones for when the episodes will go live.
 - Responsive background feature that cycles through images and GIFs from the new trailers at random.
 

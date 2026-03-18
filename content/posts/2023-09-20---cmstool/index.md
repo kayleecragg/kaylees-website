@@ -18,6 +18,6 @@ socialImage: "./cms.png"
   <b>
 </figure>
 
-- Made with **HTML, CSS, Javascript**, hosted on **Firebase**. I scraped all the information from my company's website.
+- Made with HTML, CSS, Javascript, hosted on Firebase. I scraped all the information from my company's website.
 - Developed a web app that acts as a CMS (content management system) tool to help organize large volumes of assets.
 - Initially created to demo a non‑functioning tool to pitch to workplace's product team.

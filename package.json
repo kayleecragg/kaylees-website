@@ -29,6 +29,7 @@
     "@alxshelepenok/diesel-extensions": "1.0.1241",
     "@sentry/gatsby": "^8.45.1",
     "@sentry/tracing": "^7.114.0",
+    "caniuse-lite": "^1.0.30001757",
     "classnames": "^2.5.1",
     "gatsby": "^5.14.1",
     "gatsby-link": "^5.14.1",

@@ -13,10 +13,8 @@ socialImage: "./postbot.png"
 
 <figure style="text-align: center;">
   <img src="/postbot.png" />
-  <p><b>From 40 hours to 4 hours<b></p>
+  <p><b>From 40 hours to 4 hours</p>
   <div style="display: flex; justify-content: center; gap: 1rem;">
-    <a href="https://colab.research.google.com/drive/1jFuPN-3OMjf6p990YB8j_fsw3-JhViI0?usp=sharing" target="_blank">Colab</a>
-    <a href="https://github.com/kayleecragg/kikibot" target="_blank">Github</a>
   </div>
 </figure>
 
@@ -92,11 +90,14 @@ My team lead gave me a few more days to tinker with it and then she invited me t
   <figcaption>Kikibot's expanded capabilities extending to the Google Sheets API in action</figcaption>
 </figure>
 
-*This section is still WIP.*
+<figure>
+  <img src="/scrape1.gif"/>
+  <figcaption>Scraping the Australian Open's order of play website with Puppeteer.</figcaption>
+</figure>
 
 - Moved from local Excel sheet to Google Sheets with Google Sheets API, easier.
 - Expanded Kikibot's capabilities to cover Google Sheets API, able to batch input information based on the data sheet and was thus able to completely automate the asset making aspect of the job
-- Kikibot was able to scrape competition page using Selenium + Puppeteer for easy acquisition of match and player data
+- Kikibot was able to scrape competition page (Aus open) using Selenium + Puppeteer for easy acquisition of match and player data
 - Puppeteer (another web automation software, which was built in Node) was necessary because the competition page was made in React and needed Javascript to interact with, which was out of Selenium's abilities
 
 
@@ -115,13 +116,22 @@ So, I made an DearPyGui GUI application that was bundled with the local Kikibot 
   <figcaption>I made a GUI in DearPyGui to make it easier for the team to run Kikibot (postimages) locally</figcaption>
 </figure>
 
+<figure>
+  <img src="/postbot1.gif"/>
+  <figcaption>One post images set with postbot in action.</figcaption>
+</figure>
+
 ## Impact
 So how exactly did this boost shareholder value?<br>
 During the time I created this automation, my team was very short staffed. Everybody was working long hours for days on end. I myself at one point worked 19 days in a row, some of them being 13 hour days.<br>
 
-I was also undergoing an internship, so I didn't have much time at all to devote to working and helping out during this very busy tournament period. I could at most only work from 6pm onwards until midnight, (6 hours) preferably less. Which is a great segue to the next issue at hand;
+I was also working else where, so I didn't have much time at all to devote to working and helping out during this very busy tournament period. I could at most only work from 6pm onwards until midnight, (6 hours) preferably less. Which is a great segue to the next issue at hand;
 
 According to previous rosters (January, May, July, September), there were on average 5 people rostered on to complete the whole image/asset creation process (before the automation).
+
+Example - 2 July 2023
+
+Name - Shells: 9am - 5pm
 
 <div style="border:1px solid #ccc; padding:10px; border-radius:5px;">
 <b><u>Example - 2 July 2023:</u></b><br><br>Name - Shells: <b>9am - 5pm</b><br>Name - Shells: <b>9am - 5pm</b><br>Name - Pre-promote images: <b>6am - 2pm</b><br>Name - Pre-promote images: <b>6am - 2pm</b><br>Name - Post images: <b>9am - 5pm</b><br><br>In total: <b>40 hours</b> spent in one day
@@ -232,7 +242,7 @@ Wait, there's more?
 Yes there's more!
 
 The events that transpired beforehand all took place during the Australian Open *(January)*, one of four tennis grandslams my company covers. The next one will take place in May. 
-However, prior to this I was offered an internship position overseas, meaning I wouldn't be available to run my bot. Well, just hand it off to someone?
+However, prior to this I also had to go overseas for 3 months, meaning I wouldn't be available to run my bot. Well, just hand it off to someone?
 - First of all, it wasn't polished. There were stil plenty of bugs that happened that I barely was able to fix in the heat of things just enough to get everything running.
 - Second of all, nobody actually knew how to use it; there were many steps to the process and it was more than could be put into a simple handover message.
 - Third of all, [Postbot](#postbot) wasn't actually made at this time. So the whole time in January the post images were just made with a hastily put together locally ran raw Python file and me madly shoving images in before the timer ```time.sleep(30)``` in the Selenium loop closed on me.
@@ -243,4 +253,4 @@ We settled on a solution which involved me optimising the Google Colab environme
 
 *This section is still WIP.*
 
-What happened after? Well that tournament went fine, but halfway through the next tournament a better version was brought in by our company's tech team that made my tool redundent. So that's why it's safe to share now.
+What happened after? Well that tournament went fine, but halfway through the next tournament a better version was brought in by our company's tech team that made my tool redundent.
