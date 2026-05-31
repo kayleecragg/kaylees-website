@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 15 Oct 2025 00:28:15 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 May 2026 14:39:56 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 51.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAABYlAAAWJQFJUiTwAAABqklEQVR42iVS2ZKbMBDkOcfGmEMY2yAJdI8ODuP1ptb5/7/KYKtGXWr1qOehlR3y/HBAyI9HrOMbkfZ975wDADGOu5q/1Pchz1/9x6zrrthX13VRlEVZ7oi7rNCvJgTrzyFHWpTVG1HbV1UfizKjlDE2dj1vr/R8pZeOnTvWXjrSnKq6IaeWtJeqJlXTIpLTuT61FWlq0hZlnXExDkaiA+e8Y1QOgzeGs3313VUMAyhFac8Y7a4XMXCnFKM933mXca/d9wre+yXZNcEwPGII4JIHo6Qfx2eK4FwAMFIGIf7GGByqHk0zo/3n8nTWT9MSXeq9Ul+zRj16kSDw4dtBsDY6p8fRjeMnBKM13hghMtDjY/EpwDTNVhvpxbJ5HAVT1NYMVqK3NSYEL63xin/N1oOfUlQ4ORj63NQyT/f73WI0kj5mnRLSzWorvJj/TR5smJIFiJZ+3/S6zNiMQWZGsvukQ4y3280YBxofq3V5ezkn2RZUSvG+bUobq7DZIF3X1RiTYZZN0xDSvJC0p6Zt22qPhWCcr++Qf/z+QPXHz1+g+uemY0o4yVr7H2v4U2wujfnbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -64,9 +64,8 @@
 &lt;p&gt;How did it break? So apparently the source for the original checkerboard (SMT) was changing their licensing or something, and so their checkerboard just didn’t work for the entirety of Roland Garros 2025..&lt;/p&gt;
 &lt;p&gt;Anyways. This was a little inconvenient, so I tried looking for alternatives.
 &lt;br&gt;(I’m writing this in September 2025 so in hindsight looking back on everything I tried doing, I know was dumb. lol)&lt;/p&gt;
-&lt;p&gt;First I tried some random sportsbet API coupled with another API. And it worked? But not very reliably? And it also didn’t give me very much useful information. Like barely anything at all.&lt;/p&gt;
+&lt;p&gt;First I tried some random sports betting API coupled with another Roland Garros tennis court API. And it worked? But not very reliably? And it also didn’t give me very much useful information. Like barely anything at all.&lt;/p&gt;
 &lt;p&gt;And then I tried to hastily slap it together with a really ugly UI.&lt;/p&gt;
-&lt;p&gt;WIP WIP.&lt;/p&gt;
 &lt;figure&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 47.08333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAJCAYAAAAywQxIAAAACXBIWXMAAAsTAAALEwEAmpwYAAAB00lEQVR42mWSW5ObMAxG+f9/rC9tdjNNu7kHQgILGLCNgXDLqZzuQ2fqGY0lS7Z1Pju4RBHnMKKsKj6zjPAaoxvH8oRxmpjEmZaFcX6KLUzz/DUvSMl/I0iud6LjBZ0X9P2DqqhwuqEzDa211BK32tIbR+s6SrnU1YbBtizDiJFGVJLSac0yjgTV/UK6XxNv36jqDBMd0R9rusOWxViicEO8W1GHB0ZjKOIz2WHDza8VKU10pt6sKTdvdFVJUNuKrEj4LO5Yq7mkR/bX30TXA43EaX7jGG45XbaoMkPbWmqlXiXUpiK+n0SmPVFywnWOoPN6SevPx8A8T4JnGJuWybUMguCqWvAcc9sxdp1IYVm6Hvye5xOtFHmSCLJh9shm94v6xzfM9idD25ILcvLxLpjv8jiawscix+1DELM7uaCnuzU3kakyBfZ4QK2+U61XtMmdIEqOhPGOLP+LrL0EKiUVCYypKXVBnEZEguYRc8mFtxMXwSzUJ1bWlGhZ5AmuMQRKFWhdi1WvAxb/HQRlHAYpkkeSnJGcayzD48E0TuI3lIV6xYt8qUXq/R7vB33f4ZwRs3R9KzrOLxvHgVJlr9tL34l0P4pGk/xNv9GP59dB/9ofB/OpirvKwvgAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -88,6 +87,38 @@
     &lt;/span&gt;
   &lt;figcaption&gt;An early version of the makeshift checkerboard, ugly UI but better than nothing&lt;/figcaption&gt;
 &lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;
+&lt;p&gt;I thought surely there was a better way to get this information (and for free? I had to do a free trial for those sports betting APIs access)&lt;/p&gt;
+&lt;/li&gt;
+&lt;li&gt;
+&lt;p&gt;I went to Roland Garros’ order of play website and inspected the networks tab, found that it was calling this API: &lt;a href=&quot;https://www.rolandgarros.com/api/en-us/polling&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.rolandgarros.com/api/en-us/polling&lt;/a&gt;&lt;/p&gt;
+&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 63.74999999999999%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAANABQDASIAAhEBAxEB/8QAFwAAAwEAAAAAAAAAAAAAAAAAAAUGAf/EABQBAQAAAAAAAAAAAAAAAAAAAAD/2gAMAwEAAhADEAAAAXKGjnheYH//xAAZEAACAwEAAAAAAAAAAAAAAAAABAIQMxL/2gAIAQEAAQUC5iN703uf/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAGhAAAQUBAAAAAAAAAAAAAAAAEAABAhEyof/aAAgBAQAGPwLPE9GQ/8QAHRABAAIABwAAAAAAAAAAAAAAAQARECExYXGhsf/aAAgBAQABPyHZyA0BRlUvnDqHkWf/2gAMAwEAAgADAAAAEIMP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPxA//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPxA//8QAHRAAAgMAAgMAAAAAAAAAAAAAAREAMUEhUWHR4f/aAAgBAQABPxDheip6idCrJnUJBdhhmjwYDcT80SgqCuf/2Q==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/abc8287ac7a1f0ab34e3b0f9f06a7932/8ac56/inspecting.webp 240w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/d3be9/inspecting.webp 480w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/e46b2/inspecting.webp 960w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/f992d/inspecting.webp 1440w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/991ad/inspecting.webp 1567w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/abc8287ac7a1f0ab34e3b0f9f06a7932/09b79/inspecting.jpg 240w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/7cc5e/inspecting.jpg 480w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/6a068/inspecting.jpg 960w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/644c5/inspecting.jpg 1440w,
+/static/abc8287ac7a1f0ab34e3b0f9f06a7932/68857/inspecting.jpg 1567w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/jpeg&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/abc8287ac7a1f0ab34e3b0f9f06a7932/6a068/inspecting.jpg&quot; alt=&quot;inspecting&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;inspecting Roland Garros&apos; order of play website&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;ul&gt;
+&lt;li&gt;I thought maybe I could use it too, but that API had CORS protection?&lt;/li&gt;
+&lt;li&gt;So I had to make my own server/API to call it to bypass CORs.&lt;/li&gt;
+&lt;li&gt;tldr: roland garros has an api but webpage browser cannot access because of CORS&lt;/li&gt;
+&lt;/ul&gt;
 &lt;figure&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 33.33333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAHABQDASIAAhEBAxEB/8QAFQABAQAAAAAAAAAAAAAAAAAAAAT/xAAUAQEAAAAAAAAAAAAAAAAAAAAA/9oADAMBAAIQAxAAAAGAAH//xAAXEAADAQAAAAAAAAAAAAAAAAAAAxMC/9oACAEBAAEFAqsK7KsP/8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAwEBPwE//8QAFBEBAAAAAAAAAAAAAAAAAAAAEP/aAAgBAgEBPwE//8QAFxAAAwEAAAAAAAAAAAAAAAAAAAIykf/aAAgBAQAGPwK20ttLbT//xAAWEAEBAQAAAAAAAAAAAAAAAAABABD/2gAIAQEAAT8hajnuf//aAAwDAQACAAMAAAAQcA//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAEDAQE/ED//xAAUEQEAAAAAAAAAAAAAAAAAAAAQ/9oACAECAQE/ED//xAAaEAACAgMAAAAAAAAAAAAAAAABEQAhMVGR/9oACAEBAAE/EATS3vGws12hcV3z/9k=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -180,7 +211,32 @@
     &lt;/span&gt;
   &lt;figcaption&gt;&quot;It is vital&quot; :)&lt;/figcaption&gt;
 &lt;/figure&gt;
-&lt;p&gt;Anyways there’s a long story from here on out but I’ll continue it another day.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Ascension v0.0.1]]></title><description><![CDATA[Demo roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF.]]></description><link>http://kayleecragg.github.io//projects/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+&lt;ul&gt;
+&lt;li&gt;uhh but i was hosting on my own machine using… nginx.. which brought uh multiple problems&lt;/li&gt;
+&lt;li&gt;bad practice !!!!&lt;/li&gt;
+&lt;li&gt;so someone at work advised me to try hosting the server with vercel&lt;/li&gt;
+&lt;li&gt;vercel server made so that bypass CORS&lt;/li&gt;
+&lt;li&gt;vercel server queries &lt;a href=&quot;https://www.rolandgarros.com/api/en-us/polling&quot; target=&quot;_blank&quot; rel=&quot;nofollow noopener noreferrer&quot;&gt;https://www.rolandgarros.com/api/en-us/polling&lt;/a&gt; every time it is called by this web page (about every 1.5 seconds)&lt;/li&gt;
+&lt;li&gt;improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)&lt;/li&gt;
+&lt;li&gt;anyways it got reused by my team the next year (2026) because the mis checkerboard still down since 2024..&lt;/li&gt;
+&lt;/ul&gt;
+&lt;figure&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 115.83333333333334%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAXCAIAAACEf/j0AAAACXBIWXMAAAsTAAALEwEAmpwYAAACjElEQVR42u1Ua1MSYRTmB4iaMzhB0YwygHLZ3fe67AUWRHHxAkomCiK6XGvKrFBIa7Tya2nTH+4sMsmkzWSfe+bZPWd299nznDPv+zqMZFJRVc5sKIoiy7IoCLOzs+FweKaPUCgUDARmgsFIJCIIQjQapZRKkgSJAwIhZCGTMbPZeqNRre7n83nIk6nUomluFovNZisHj9bWoAZ8LIrixsZGIpGAH9liqGbV6m87nePe+6Nu7+XB6+1SuVQun374eHb+6fOXi97JaaPZMgzD5/MFg+BjAAdCCCqDB7fbPXkNl+uJ1ytKKCKIj71et9vj9ngeeh5BCyDwD2Egzmazq7nceqGwtr6u6xqXYwklZhrxhaQBTOlqTIxiSQj2pwATuR6HbZtzXqs3jru9I5vdd51Oac86MI3vhfmrvWc/rOJlpXCVT+Y1HhYljG4wqAx6Sgj0MzU15Zuenvb7nyqkpRNLxTUVWxpuxckcxYKE7hDH4/FMJoMxgq7AVSAUWo3RPZ1WNLqr2XfIk7fFMBiZkosV49vW8qW1ddUof91cOjPjMsEEIzrEYdlALEkIHDfjrJ2gbYM/N+QXCVbTKShFhKQhojvECDFCqhrbB28aAVoa3VEp+YMA/dYz+FEJHqZCMPoLOK6DeIv3EP8b/ovvK4ZdhewVi+04YP/qAw3n/ZU2DAdlFLaZgARCMeMUyGXGuEzhBeOEckQYgZwyhCnGBE67X3QU26X5nezmYc6syDgdiK3MzG3rSzu9+puL6qvz1eoJX2wvFA62a109d6goS8sqTzO6qMgZVbFtz6fT1counEROp3PiwYRzZCQY8M+lUkosxiiBg0WWuQ5BVeHcdLkmR0dHx8bHxsbHfwKm3Sve64MwJQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/6e63e04ef1bde4d398580a4a6f542d63/8ac56/mis.webp 240w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/d3be9/mis.webp 480w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/e46b2/mis.webp 960w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/bb9fe/mis.webp 972w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/6e63e04ef1bde4d398580a4a6f542d63/8ff5a/mis.png 240w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/e85cb/mis.png 480w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/d9199/mis.png 960w,
+/static/6e63e04ef1bde4d398580a4a6f542d63/7ae9c/mis.png 972w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/6e63e04ef1bde4d398580a4a6f542d63/d9199/mis.png&quot; alt=&quot;mis&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;down since 2024 :(&lt;/figcaption&gt;
+&lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ascension v0.0.1]]></title><description><![CDATA[Demo roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF.]]></description><link>http://kayleecragg.github.io//projects/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAACxLAAAsSwGlPZapAAAC9ElEQVR42iWT228bZRDFLQqoKorjJE0cO3bttdf2+hJ7b05217f13tyWRqVUFQXRQEqDShECHngBCgpQChURCKRSKP8C6kP5/37Mug+r75udnTPnnJnNhP6IJJwRBTPiaM5wqNPSSvR265hml2J5k5WNrNz79AcdyQ+4tIjwpx7uvkUSBVj2gHfLRZ6srpIJZiNcxyKYTwQwIAzn2HYP09JQ1ALnsq+yXc7T1BR2BHwycQmCKbOJQyhnLHWOa/FBpcRP2SyZWNiN3CGePIE/JopCAZ9i2hqFco5iIStsK6hakXZPIZR8CpDWpSytfouZZ5PMxlzZt8nM/QlzCcYjB1/Y+ul97GKJ3HIpS1tZx9QrIleV93tLNSMBSOvMQRdj0F7Wh2LZSHKZFCQNotCXD/c5uHKJa28ccOPGNd65GhHoKntOn9tHNzm89RbvHd7kw+M7HN85wp/sC0uXUBTFUh+J/Mxu9wLOnkEcR8tO/zz9iwc/nPDo0UM+unvMx/duc+vwbX7/7Wfuf/UF/z1/zrNn//L078cCMF4CxeJ7OtBg5pFp1HI06uexdY3LF2NOT3/hxwff8f3JfU6+/ZLPP7vL9asJ199ccCQsfz19yJ+P/+DTT+6xiAPxPFiSSQQw9TWz2yyiNbboNgvM3QGLJObg9YuSnOA5Pfb0BraskFLdIL+9wkruDPX61nKAS6AkeeGfa2AYGpmxXmXYq9JvlpjoNZLAk7XwqVY2US+s0pFmZnsH16ihSdP19TPYRvOF78IuHaJptCS3SV2RPZwKyKxfYSxFYzkX3i7BZIjV2cHoFGnVttBbJTyjylgUeI65lJYkC/Hck2mPZSM6S9vqtTUBLK7yzbmzLNQ8Q1NhbjVwdIXIadHXtmnWN2k38qhKTnZOIRhZhLIZUeAQ+yZJPGc6sum0iuyUhOHxa6/w9csv8f7KWQ7yOdxagb66ha1ui2zZQ2mkSVyvZgV0DaNbFf+mMmGH+agnYDr78hNo6gal8hr/A1lAk6Yz8mvsAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -487,9 +543,10 @@
 &lt;li&gt;Burning down temples&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;&lt;em&gt;(These are not happening lol)&lt;/em&gt;
-&lt;br&gt;&lt;br&gt;
-I guess, if you’re still here, I’m trying to make this game in Unreal Engine and C++! :)
-Stay tuned I guess!&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Arcane Season 2 Countdown]]></title><description><![CDATA[Countdown web app written in HTML, CSS, Javascript.]]></description><link>http://kayleecragg.github.io//projects/arcane-s2</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/arcane-s2</guid><pubDate>Mon, 23 Sep 2024 22:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+&lt;br&gt;&lt;br&gt;&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;i’d like to make this game in Unreal Engine and C++ but uhh&lt;/li&gt;
+&lt;/ul&gt;</content:encoded></item><item><title><![CDATA[Arcane Season 2 Countdown]]></title><description><![CDATA[Countdown web app written in HTML, CSS, Javascript.]]></description><link>http://kayleecragg.github.io//projects/arcane-s2</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/arcane-s2</guid><pubDate>Mon, 23 Sep 2024 22:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;a class=&quot;gatsby-resp-image-link&quot; href=&quot;/static/f87ecef8dae176b5dac8f1a85d09d37c/b8806/face.jpg&quot; style=&quot;display: block&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;
     &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/jpeg;base64,/9j/2wBDABALDA4MChAODQ4SERATGCgaGBYWGDEjJR0oOjM9PDkzODdASFxOQERXRTc4UG1RV19iZ2hnPk1xeXBkeFxlZ2P/2wBDARESEhgVGC8aGi9jQjhCY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2NjY2P/wgARCAAKABQDASIAAhEBAxEB/8QAGAAAAwEBAAAAAAAAAAAAAAAAAAIDAQX/xAAVAQEBAAAAAAAAAAAAAAAAAAAAAf/aAAwDAQACEAMQAAAB5DRdJGC//8QAGBAAAwEBAAAAAAAAAAAAAAAAARAhAAL/2gAIAQEAAQUCExr7X//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQMBAT8BP//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8BP//EABcQAAMBAAAAAAAAAAAAAAAAAAABEEL/2gAIAQEABj8CM1T/xAAbEAACAgMBAAAAAAAAAAAAAAAAAREhEDFBsf/aAAgBAQABPyGNqrj6NBJwrZAzwx//2gAMAwEAAgADAAAAEADP/8QAFREBAQAAAAAAAAAAAAAAAAAAARD/2gAIAQMBAT8QJ//EABQRAQAAAAAAAAAAAAAAAAAAABD/2gAIAQIBAT8QP//EABsQAQEAAgMBAAAAAAAAAAAAAAERACEQMWFx/9oACAEBAAE/EE6bjxw+4lQInyuadpi1hBgl4f/Z&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
