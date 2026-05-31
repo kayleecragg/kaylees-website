@@ -42,17 +42,28 @@ How did it break? So apparently the source for the original checkerboard (SMT) w
 Anyways. This was a little inconvenient, so I tried looking for alternatives.
 <br>(I'm writing this in September 2025 so in hindsight looking back on everything I tried doing, I know was dumb. lol)
 
-First I tried some random sportsbet API coupled with another API. And it worked? But not very reliably? And it also didn't give me very much useful information. Like barely anything at all.
+First I tried some random sports betting API coupled with another Roland Garros tennis court API. And it worked? But not very reliably? And it also didn't give me very much useful information. Like barely anything at all.
 
 And then I tried to hastily slap it together with a really ugly UI.
-
-WIP WIP.
 
 
 <figure>
   <img src="/early.png" />
   <figcaption>An early version of the makeshift checkerboard, ugly UI but better than nothing</figcaption>
 </figure>
+
+- I thought surely there was a better way to get this information (and for free? I had to do a free trial for those sports betting APIs access)
+
+- I went to Roland Garros' order of play website and inspected the networks tab, found that it was calling this API: https://www.rolandgarros.com/api/en-us/polling
+
+<figure>
+  <img src="/inspecting.jpg" />
+  <figcaption>inspecting Roland Garros' order of play website</figcaption>
+</figure>
+
+- I thought maybe I could use it too, but that API had CORS protection?
+- So I had to make my own server/API to call it to bypass CORs.
+- tldr: roland garros has an api but webpage browser cannot access because of CORS
 
 <figure>
   <img src="/checkerboard1.jpg" />
@@ -82,4 +93,15 @@ So after the first few days of me having this system up, my supervisor contacted
   <figcaption>"It is vital" :)</figcaption>
 </figure>
 
-Anyways there's a long story from here on out but I'll continue it another day.
+- uhh but i was hosting on my own machine using... nginx.. which brought uh multiple problems
+- bad practice !!!!
+- so someone at work advised me to try hosting the server with vercel
+- vercel server made so that bypass CORS
+- vercel server queries https://www.rolandgarros.com/api/en-us/polling every time it is called by this web page (about every 1.5 seconds)
+- improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)
+- anyways it got reused by my team the next year (2026) because the mis checkerboard still down since 2024..
+
+<figure>
+  <img src="/mis.png" />
+  <figcaption>down since 2024 :(</figcaption>
+</figure>

@@ -3,7 +3,7 @@ title: "Work Experience"
 template: "page"
 socialImage: "./image.jpeg"
 ---
-### Unnamed VFX Company
+### ILM
 <span style="color:gray">Pipeline Technical Director Intern | Jul 2025 - Oct 2025</span><br>
 I worked on an upgrade and wrote test files for an existing proprietary versioning tool within Nuke. <br>Additionally, I responded to Jira support tickets submitted by artists.
 <br>

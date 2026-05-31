@@ -129,10 +129,6 @@ I was also working else where, so I didn't have much time at all to devote to wo
 
 According to previous rosters (January, May, July, September), there were on average 5 people rostered on to complete the whole image/asset creation process (before the automation).
 
-Example - 2 July 2023
-
-Name - Shells: 9am - 5pm
-
 <div style="border:1px solid #ccc; padding:10px; border-radius:5px;">
 <b><u>Example - 2 July 2023:</u></b><br><br>Name - Shells: <b>9am - 5pm</b><br>Name - Shells: <b>9am - 5pm</b><br>Name - Pre-promote images: <b>6am - 2pm</b><br>Name - Pre-promote images: <b>6am - 2pm</b><br>Name - Post images: <b>9am - 5pm</b><br><br>In total: <b>40 hours</b> spent in one day
 </div>

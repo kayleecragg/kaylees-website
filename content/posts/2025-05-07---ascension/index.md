@@ -228,5 +228,4 @@ We also added some new features:
 
 *(These are not happening lol)*
 <br><br>
-I guess, if you're still here, I'm trying to make this game in Unreal Engine and C++! :)
-Stay tuned I guess!
+- i'd like to make this game in Unreal Engine and C++ but uhh
