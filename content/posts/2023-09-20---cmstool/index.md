@@ -2,7 +2,7 @@
 title: CMS Tool
 date: "2023-09-20T22:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/projects/CMS-Tool"
 category: "Projects"
 tags:

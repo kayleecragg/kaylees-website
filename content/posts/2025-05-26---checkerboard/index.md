@@ -71,7 +71,7 @@ And then I tried to hastily slap it together with a really ugly UI.
 </figure>
 
 <figure>
-  <img src="/recognition.png" />
+  <img src="/2025-shoutout.png" />
   <figcaption>my boss(es) were happy with my creation :)</figcaption>
 </figure>
 
@@ -104,4 +104,9 @@ So after the first few days of me having this system up, my supervisor contacted
 <figure>
   <img src="/mis.png" />
   <figcaption>down since 2024 :(</figcaption>
+</figure>
+
+<figure>
+  <img src="/2026-shoutout.png" />
+  <figcaption>reused :)</figcaption>
 </figure>
