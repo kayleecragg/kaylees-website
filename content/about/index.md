@@ -1,7 +1,7 @@
 ---
 title: "Introducing Me"
 template: "page"
-socialImage: "./image.jpg"
+socialImage: "./kaylee.jpg"
 slug: "/"
 ---
 
