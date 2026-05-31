@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 May 2026 15:14:27 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 31 May 2026 16:01:09 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 51.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAABYlAAAWJQFJUiTwAAABqklEQVR42iVS2ZKbMBDkOcfGmEMY2yAJdI8ODuP1ptb5/7/KYKtGXWr1qOehlR3y/HBAyI9HrOMbkfZ975wDADGOu5q/1Pchz1/9x6zrrthX13VRlEVZ7oi7rNCvJgTrzyFHWpTVG1HbV1UfizKjlDE2dj1vr/R8pZeOnTvWXjrSnKq6IaeWtJeqJlXTIpLTuT61FWlq0hZlnXExDkaiA+e8Y1QOgzeGs3313VUMAyhFac8Y7a4XMXCnFKM933mXca/d9wre+yXZNcEwPGII4JIHo6Qfx2eK4FwAMFIGIf7GGByqHk0zo/3n8nTWT9MSXeq9Ul+zRj16kSDw4dtBsDY6p8fRjeMnBKM13hghMtDjY/EpwDTNVhvpxbJ5HAVT1NYMVqK3NSYEL63xin/N1oOfUlQ4ORj63NQyT/f73WI0kj5mnRLSzWorvJj/TR5smJIFiJZ+3/S6zNiMQWZGsvukQ4y3280YBxofq3V5ezkn2RZUSvG+bUobq7DZIF3X1RiTYZZN0xDSvJC0p6Zt22qPhWCcr++Qf/z+QPXHz1+g+uemY0o4yVr7H2v4U2wujfnbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -140,13 +140,13 @@
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 910px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAIAAADtbgqsAAAACXBIWXMAABYlAAAWJQFJUiTwAAABw0lEQVR42o2SzY7TMBDH87ycuHFHXHgA3oADCIkLQntAqrQLty5Js01iO2naxKmTtEnz6SSN88WkZZHQAuIne2yN5m97ZiyNM8N4XS7ApmkaXvK6qjmf7dX5FGmcJhi/gDiwcRyrhmrapuu4hJCyLM9Ac24fEUL0fS95tx/z9y8D5u8ZWywWjLH52oLHIiq6dCqKuqpAnGVZnudFUVS8gudAzCwmXz7cv3lhIKyqD7IsOzPubudQ6gEBHOb7h8MxCALf98EDDrDUpUmSSFnJj2luEgQDGxrSNUX+vrU3G5M482JZJjEJRghZlnU6nSCjq4VXSJ1oi5ITGhlbpm6D9dZHzsHy4gc7wDRCO99wwg0NQZCmadd14gJsIHOpqeu6Od98+7qyPeX2TlsjGamyoRPHWROs2WypWVFWiUudmt+Rumnqx2Gt36d5xlbLhDpZuIkCh2fs5OM0yUKfjUMHxW6fIKmvXhtv3+2DEOnGUlm5+73rUl4WTV1Nj12Elk5/Qrp79hx/+mxRulIUjLHrusjSzR32mD304h/KWTy2bcVrHBxxxKFJUMdxGlvRik5Mf5f9FMPshzEpq6Tp4SNAbtN/8wPHMJt2m+GbZAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
-          &lt;source srcset=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/8ac56/recognition.webp 240w,
-/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/d3be9/recognition.webp 480w,
-/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/92674/recognition.webp 910w&quot; sizes=&quot;(max-width: 910px) 100vw, 910px&quot; type=&quot;image/webp&quot;&gt;
-          &lt;source srcset=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/8ff5a/recognition.png 240w,
-/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/e85cb/recognition.png 480w,
-/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/c6bbc/recognition.png 910w&quot; sizes=&quot;(max-width: 910px) 100vw, 910px&quot; type=&quot;image/png&quot;&gt;
-          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/c6bbc/recognition.png&quot; alt=&quot;recognition&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+          &lt;source srcset=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/8ac56/2025-shoutout.webp 240w,
+/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/d3be9/2025-shoutout.webp 480w,
+/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/92674/2025-shoutout.webp 910w&quot; sizes=&quot;(max-width: 910px) 100vw, 910px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/8ff5a/2025-shoutout.png 240w,
+/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/e85cb/2025-shoutout.png 480w,
+/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/c6bbc/2025-shoutout.png 910w&quot; sizes=&quot;(max-width: 910px) 100vw, 910px&quot; type=&quot;image/png&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/e0b1e2d2f65ca2a36c0e1d663f383b6f/c6bbc/2025-shoutout.png&quot; alt=&quot;2025 shoutout&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
         &lt;/picture&gt;
     &lt;/span&gt;
   &lt;figcaption&gt;my boss(es) were happy with my creation :)&lt;/figcaption&gt;
@@ -236,6 +236,21 @@
         &lt;/picture&gt;
     &lt;/span&gt;
   &lt;figcaption&gt;down since 2024 :(&lt;/figcaption&gt;
+&lt;/figure&gt;
+&lt;figure&gt;
+  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 740px; &quot;&gt;
+      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 35.833333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAHCAIAAACHqfpvAAAACXBIWXMAABYlAAAWJQFJUiTwAAABQklEQVR42kWQ3U6EMBCF9zF0gYXtL7RAW1pKC7tZ1xDMqqsX7p1e+f4P4RBNTL5MppOcmdOz4aW4XpaPtxetO2VsnE4+TK22to/K9EKqVnWEVojwbZonabGSAXtggzE9Bvv+dHbOqW4wfZTGl62TNgozSOWUHURjKa+THGd7mhYkzXGyQ6sY1mS7glGCa4vjsncPOMxkXPAw4/684s8EJmGmcaZhZuOCdLy7z37Fq4H7pCgQE42pmo4LRblkoi2lolUDT1a1AJeqkgoqg2HVpDv0JwayHItah3iAP6vOd9ZrN7TG9X600EAAw6Td6Pw4hIPp/L94m8JlOgVfK4sLHEWdIv51vXzfXpOC3q7P03RCiHw+OggP7kOcq21YAEAAeUFUq1lZI8QkFzniY/DHY8wRM9qWQhHKl4NFpATP4DHJ9j8HSUi6yVmXhAAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
+  &lt;picture&gt;
+          &lt;source srcset=&quot;/static/3f1873fdcbe976a579adaa52f28f7c86/8ac56/2026-shoutout.webp 240w,
+/static/3f1873fdcbe976a579adaa52f28f7c86/d3be9/2026-shoutout.webp 480w,
+/static/3f1873fdcbe976a579adaa52f28f7c86/ca4a8/2026-shoutout.webp 740w&quot; sizes=&quot;(max-width: 740px) 100vw, 740px&quot; type=&quot;image/webp&quot;&gt;
+          &lt;source srcset=&quot;/static/3f1873fdcbe976a579adaa52f28f7c86/8ff5a/2026-shoutout.png 240w,
+/static/3f1873fdcbe976a579adaa52f28f7c86/e85cb/2026-shoutout.png 480w,
+/static/3f1873fdcbe976a579adaa52f28f7c86/50383/2026-shoutout.png 740w&quot; sizes=&quot;(max-width: 740px) 100vw, 740px&quot; type=&quot;image/png&quot;&gt;
+          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/3f1873fdcbe976a579adaa52f28f7c86/50383/2026-shoutout.png&quot; alt=&quot;2026 shoutout&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
+        &lt;/picture&gt;
+    &lt;/span&gt;
+  &lt;figcaption&gt;reused :)&lt;/figcaption&gt;
 &lt;/figure&gt;</content:encoded></item><item><title><![CDATA[Ascension v0.0.1]]></title><description><![CDATA[Demo roguelike 2D Game made in Lua and with Love2D adapted from the novel TGCF.]]></description><link>http://kayleecragg.github.io//projects/ascension</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/ascension</guid><pubDate>Wed, 07 May 2025 11:46:37 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 58.333333333333336%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAMCAYAAABiDJ37AAAACXBIWXMAACxLAAAsSwGlPZapAAAC9ElEQVR42iWT228bZRDFLQqoKorjJE0cO3bttdf2+hJ7b05217f13tyWRqVUFQXRQEqDShECHngBCgpQChURCKRSKP8C6kP5/37Mug+r75udnTPnnJnNhP6IJJwRBTPiaM5wqNPSSvR265hml2J5k5WNrNz79AcdyQ+4tIjwpx7uvkUSBVj2gHfLRZ6srpIJZiNcxyKYTwQwIAzn2HYP09JQ1ALnsq+yXc7T1BR2BHwycQmCKbOJQyhnLHWOa/FBpcRP2SyZWNiN3CGePIE/JopCAZ9i2hqFco5iIStsK6hakXZPIZR8CpDWpSytfouZZ5PMxlzZt8nM/QlzCcYjB1/Y+ul97GKJ3HIpS1tZx9QrIleV93tLNSMBSOvMQRdj0F7Wh2LZSHKZFCQNotCXD/c5uHKJa28ccOPGNd65GhHoKntOn9tHNzm89RbvHd7kw+M7HN85wp/sC0uXUBTFUh+J/Mxu9wLOnkEcR8tO/zz9iwc/nPDo0UM+unvMx/duc+vwbX7/7Wfuf/UF/z1/zrNn//L078cCMF4CxeJ7OtBg5pFp1HI06uexdY3LF2NOT3/hxwff8f3JfU6+/ZLPP7vL9asJ199ccCQsfz19yJ+P/+DTT+6xiAPxPFiSSQQw9TWz2yyiNbboNgvM3QGLJObg9YuSnOA5Pfb0BraskFLdIL+9wkruDPX61nKAS6AkeeGfa2AYGpmxXmXYq9JvlpjoNZLAk7XwqVY2US+s0pFmZnsH16ihSdP19TPYRvOF78IuHaJptCS3SV2RPZwKyKxfYSxFYzkX3i7BZIjV2cHoFGnVttBbJTyjylgUeI65lJYkC/Hck2mPZSM6S9vqtTUBLK7yzbmzLNQ8Q1NhbjVwdIXIadHXtmnWN2k38qhKTnZOIRhZhLIZUeAQ+yZJPGc6sum0iuyUhOHxa6/w9csv8f7KWQ7yOdxagb66ha1ui2zZQ2mkSVyvZgV0DaNbFf+mMmGH+agnYDr78hNo6gal8hr/A1lAk6Yz8mvsAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
@@ -983,32 +998,4 @@ However, prior to this I also had to go overseas for 3 months, meaning I wouldn�
 &lt;li&gt;Third of all, &lt;a href=&quot;#postbot&quot;&gt;Postbot&lt;/a&gt; wasn’t actually made at this time. So the whole time in January the post images were just made with a hastily put together locally ran raw Python file and me madly shoving images in before the timer &lt;code class=&quot;language-text&quot;&gt;time.sleep(30)&lt;/code&gt; in the Selenium loop closed on me.&lt;/li&gt;
 &lt;/ul&gt;
 &lt;p&gt;So I was invited into another meeting with both my boss and lead to discuss what comes next.&lt;/p&gt;
-&lt;p&gt;We settled on a solution which involved me optimising the Google Colab environment to make it less buggy and more readable for people not so familiar with technology.&lt;br&gt;I then ran a crash course that spanned 2 weeks teaching over 10 co-workers and my 2 team leads on how to use my tool and troubleshoot any issues that may arise.&lt;/p&gt;</content:encoded></item><item><title><![CDATA[CMS Tool]]></title><description><![CDATA[Web app demo of upgraded content management system to pitch to workplace's product team.]]></description><link>http://kayleecragg.github.io//projects/CMS-Tool</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/CMS-Tool</guid><pubDate>Wed, 20 Sep 2023 22:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
-  &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
-      &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 50.83333333333333%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAABYlAAAWJQFJUiTwAAACS0lEQVR42l2O/U8ScQDG78/Jlm2uftHSJeVa1iqtLFJ7o3JocAUICYkvLQadEgMhRBQJNmMuI9sgI2jM2dbWVpvZag5T5CW4u+9xd9ydHGDxS2z1/Ph8ns/2QLt/8/vfZAGIp1OJTCaVzf6HqgpUrcoYuptMEUQ6kU/msgkuFgPfv2FrX8n1dT6ZLCUTPEXxxWK5WKwqULlU5As7pRLPffnEhgNrq2/C8Xcbn0N8OMguh5lohI0usdG3XCQEfqwCIsPlqfIuX+TpUqkADY4aGwQX24TwnD/Y3jN+8pLO530pU9uaLyNaZMri9B7rRLphZO51oP3W46Nn1K7ZZxLFWMt5nVQ2Cjm9frFKe1djCgZCUoW5Q2TwzS/qdA7h7XHE6H7hcV/vRQaGHIuBpZ4Hkzd69IGFhf4h61XYNoZMQoUCzVDYDgtYlgRYgsA2OZakKRTLbDAMzrAUmtnM4dscS5EgnQNxhiU5hkB/xWgagyTyR3UC9Yk2eGra09B6f/9hyYTVca5rsKb+nlw2pB4er21Utl5QOp2zTa39e+vvmEw2oUhb16zu6oYhu9MnVtmMxpmVlY8agxdWWZYjUYttvk9ueuV2u7z+a1Kjwfr8w/KKTj/TqzC/D0Uejrn6lBOzFjtE0wBHNwFI5fMEgScIPE5TgCIzANvK0YDJg8pVEmxXKMCTBLZV2dNkFkd/5kgUUg3oaw6pWk6JXS7PkdOaAwK57elUxxVtbZNSphgZ0Vn2Naqa25SOabfgrHpPA/zEbL/Zpz94fLhTJP8DjLmp9k/TJAQAAAAASUVORK5CYII=&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
-  &lt;picture&gt;
-          &lt;source srcset=&quot;/static/9d8acf9c54bd8628d11c5507cd22744c/8ac56/cms.webp 240w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/d3be9/cms.webp 480w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/e46b2/cms.webp 960w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/f992d/cms.webp 1440w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/882b9/cms.webp 1920w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/cd523/cms.webp 2978w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/webp&quot;&gt;
-          &lt;source srcset=&quot;/static/9d8acf9c54bd8628d11c5507cd22744c/8ff5a/cms.png 240w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/e85cb/cms.png 480w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/d9199/cms.png 960w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/07a9c/cms.png 1440w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/29114/cms.png 1920w,
-/static/9d8acf9c54bd8628d11c5507cd22744c/0ad08/cms.png 2978w&quot; sizes=&quot;(max-width: 960px) 100vw, 960px&quot; type=&quot;image/png&quot;&gt;
-          &lt;img class=&quot;gatsby-resp-image-image&quot; src=&quot;/static/9d8acf9c54bd8628d11c5507cd22744c/d9199/cms.png&quot; alt=&quot;preview of website&quot; title=&quot;&quot; loading=&quot;lazy&quot; decoding=&quot;async&quot; style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;&gt;
-        &lt;/picture&gt;
-    &lt;/span&gt;
-  &lt;b&gt;&lt;div style=&quot;display: flex; justify-content: center; gap: 1rem;&quot;&gt;
-    &lt;a href=&quot;https://stanliveopstools.web.app/usopen2023.html&quot; target=&quot;_blank&quot;&gt;Website&lt;/a&gt;
-  &lt;/div&gt;
-  &lt;b&gt;
-&lt;/b&gt;&lt;/b&gt;&lt;/figure&gt;
-&lt;ul&gt;
-&lt;li&gt;Made with HTML, CSS, Javascript, hosted on Firebase. I scraped all the information from my company’s website.&lt;/li&gt;
-&lt;li&gt;Developed a web app that acts as a CMS (content management system) tool to help organize large volumes of assets.&lt;/li&gt;
-&lt;li&gt;Initially created to demo a non‑functioning tool to pitch to workplace’s product team.&lt;/li&gt;
-&lt;/ul&gt;</content:encoded></item></channel></rss>
+&lt;p&gt;We settled on a solution which involved me optimising the Google Colab environment to make it less buggy and more readable for people not so familiar with technology.&lt;br&gt;I then ran a crash course that spanned 2 weeks teaching over 10 co-workers and my 2 team leads on how to use my tool and troubleshoot any issues that may arise.&lt;/p&gt;</content:encoded></item></channel></rss>
