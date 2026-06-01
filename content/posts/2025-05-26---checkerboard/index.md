@@ -105,8 +105,3 @@ So after the first few days of me having this system up, my supervisor contacted
   <img src="/mis.png" />
   <figcaption>down since 2024 :(</figcaption>
 </figure>
-
-<figure>
-  <img src="/2026-shoutout.png" />
-  <figcaption>reused :)</figcaption>
-</figure>
