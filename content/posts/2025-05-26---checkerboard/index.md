@@ -85,18 +85,18 @@ And then I tried to hastily slap it together with a really ugly UI.
   <figcaption>refining the UI so that it was easier to read the scores at first glance, <br>added special tags for australian players (for our specific business usecase)</figcaption>
 </figure>
 
-<figure>
+<!-- <figure>
   <img src="/notif.png" />
   <figcaption>Preview of what it would actually look like in action, notification system</figcaption>
-</figure>
-
+</figure> -->
+<!-- 
 So after the first few days of me having this system up, my supervisor contacted the development team and asked if it was possible to put the site up on the wall monitors.
 
 
 <figure>
   <img src="/important.png" />
   <figcaption>"It is vital" :)</figcaption>
-</figure>
+</figure> -->
 
 - uhh but i was hosting on my own machine using... nginx.. which brought uh multiple problems
 - bad practice !!!! very very bad expose secrets
@@ -122,16 +122,7 @@ So after the first few days of me having this system up, my supervisor contacted
 
 - improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)
 - also since company recently introduced ad breaks to customers, built another website on top of it to help notify people when during the match to take ad breaks (there are specific timings)
-- i dont think i can show this tho but i can show the reactions to it
-
-
-<figure>
-  <img src="/2026-shoutout2.png" />
-</figure>
-
-<figure>
-  <img src="/2026-shoutout3.png" />
-</figure>
+- i dont think i can show this tho but i can show the reactions to itmid
 
 anyways yeah good outcome :)
 
