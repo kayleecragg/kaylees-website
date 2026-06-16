@@ -1,38 +1,42 @@
 {
-  "title": "Kaylee's Website",
-  "url": "http://kayleecragg.github.io/",
-  "description": "Hi I'm Kaylee, a Computer Science undergraduate at UNSW.",
-  "copyright": "© All rights reserved.",
-  "googleAnalyticsId": "G-LL5G69595W",
-  "pathPrefix": "/",
-  "feedLimit": 4,
-  "menu": [
-    {
-      "title": "About",
-      "url": "/"
-    },
-    {
-      "title": "Projects",
-      "url": "/projects"
-    },
-    {
-      "title": "Contact",
-      "url": "/contacts"
+    "title": "Kaylee's Website",
+    "url": "http://kayleecragg.github.io/",
+    "description": "Hi I'm Kaylee, a Computer Science undergraduate at UNSW.",
+    "copyright": "© All rights reserved.",
+    "googleAnalyticsId": "G-LL5G69595W",
+    "pathPrefix": "/",
+    "feedLimit": 4,
+    "menu": [
+        {
+            "title": "About",
+            "url": "/"
+        },
+        {
+            "title": "Work Experience",
+            "url": "/work"
+        },
+        {
+            "title": "Projects",
+            "url": "/projects"
+        },
+        {
+            "title": "Contact",
+            "url": "/contacts"
+        }
+    ],
+    "author": {
+        "title": "Kaylee Cragg",
+        "photo": "/logo.png",
+        "description": "just a girl",
+        "contacts": [
+            {
+                "name": "github",
+                "contact": "kayleecragg"
+            },
+            {
+                "name": "email",
+                "contact": "kayleeanncragg@gmail.com"
+            }
+        ]
     }
-  ],
-  "author": {
-    "title": "Kaylee Cragg",
-    "photo": "/logo.png",
-    "description": "just a girl",
-    "contacts": [
-      {
-        "name": "github",
-        "contact": "kayleecragg"
-      },
-      {
-        "name": "email",
-        "contact": "kayleeanncragg@gmail.com"
-      }
-    ]
-  }
 }

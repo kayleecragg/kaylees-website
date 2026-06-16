@@ -229,6 +229,12 @@ So, I won an award! It's like an internal company peer bonus where people can vo
 
 ![winning internal company award](/standup2.png)
 
+>"We built a tool, it actually inflicted more work on the team, even though the tool was structurally better.
+> > And so an enterprising member of the live ops team actually built their own automation around that tool, so that they could handle producing tiles for tennis grand slams.
+>Because a single day in a tennis grand slam, means the team is managing hundreds of images - so much art - they have like one person rostered on to do that work."
+> -Cloud Engineering Lead
+
+
 Wait, there's more? 
 
 ## Aftermath

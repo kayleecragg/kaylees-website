@@ -23,8 +23,13 @@ socialImage: "./checkerboard.png"
 - Able to give notifications when a match changes court or players.
 - Widely used by my company’s live operations team during large tennis tournaments to keep up to date on court and player changes, as well as to keep track of the matches on their assigned court.
 
-## Making a project while on shift
+# Making a project while on shift 
+## 2025
 
+
+**Context:** My company broadcasts tennis grand slams. To keep up to date with the latests scores, games and players on different courts, we used to utilise a checkerboard that the grand slam organisation would provide for all broadcasters to use.
+
+**Problem:** _The Checkerboard is down!_
 
 <div style="display: flex; justify-content: center; gap: 40px;">
   <figure style="flex: 1; text-align: center;">
@@ -37,12 +42,12 @@ socialImage: "./checkerboard.png"
   </figure>
 </div>
 
-How did it break? So apparently the source for the original checkerboard (SMT) was changing their licensing or something, and so their checkerboard just didn't work for the entirety of Roland Garros 2025.. 
+How did it break? So apparently the source for the original checkerboard (SMT) was changing their licensing, and so their checkerboard just didn't work for the entirety of Roland Garros 2025.. 
 
-Anyways. This was a little inconvenient, so I tried looking for alternatives.
-<br>(I'm writing this in September 2025 so in hindsight looking back on everything I tried doing, I know was dumb. lol)
+Anyways, this was inconvenient for my team, so I tried looking for alternatives.
 
-First I tried some random sports betting API coupled with another Roland Garros tennis court API. And it worked? But not very reliably? And it also didn't give me very much useful information. Like barely anything at all.
+First I tried some random sports betting API coupled with another Roland Garros tennis court API. And it worked? But not very reliably? And it also didn't give me very much useful information. 
+Like barely anything at all.
 
 And then I tried to hastily slap it together with a really ugly UI.
 
@@ -94,14 +99,51 @@ So after the first few days of me having this system up, my supervisor contacted
 </figure>
 
 - uhh but i was hosting on my own machine using... nginx.. which brought uh multiple problems
-- bad practice !!!!
-- so someone at work advised me to try hosting the server with vercel
+- bad practice !!!! very very bad expose secrets
+- so an engineer at work advised me to try hosting the server with vercel
 - vercel server made so that bypass CORS
 - vercel server queries https://www.rolandgarros.com/api/en-us/polling every time it is called by this web page (about every 1.5 seconds)
-- improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)
+
+--- 
+
+## 2026
+
 - anyways it got reused by my team the next year (2026) because the mis checkerboard still down since 2024..
 
 <figure>
   <img src="/mis.png" />
   <figcaption>down since 2024 :(</figcaption>
+</figure>
+
+
+<figure>
+  <img src="/2026-shoutout.png" />
+</figure>
+
+- improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)
+- also since company recently introduced ad breaks to customers, built another website on top of it to help notify people when during the match to take ad breaks (there are specific timings)
+- i dont think i can show this tho but i can show the reactions to it
+
+
+<figure>
+  <img src="/2026-shoutout2.png" />
+</figure>
+
+<figure>
+  <img src="/2026-shoutout3.png" />
+</figure>
+
+anyways yeah good outcome :)
+
+<figure>
+  <img src="/2026-april-award.png" />
+  <figcaption>got nominated for a monthly award (may) :)</figcaption>
+</figure>
+<figure>
+  <img src="/2026-award.png" />
+  <figcaption>got nominated for a monthly award (june) :)</figcaption>
+</figure>
+<figure>
+  <img src="/2026-award2.png" />
+  <figcaption>won :)</figcaption>
 </figure>

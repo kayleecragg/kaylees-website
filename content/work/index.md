@@ -7,7 +7,7 @@ socialImage: "./image.jpeg"
 <span style="color:gray">Pipeline Technical Director Intern | Jul 2025 - Oct 2025</span><br>
 I worked on an upgrade and wrote test files for an existing proprietary versioning tool within Nuke. <br>Additionally, I responded to Jira support tickets submitted by artists.
 <br>
-**Technologies:** Python, Linux, Perforce, Git, Jira, Nuke, Houdini, Pytest
+**Technologies:** Python, Pytest, Linux, Perforce, Git, Jira, Nuke, Houdini
 
 ### Dolby
 <span style="color:gray">Software Engineering Intern | Dec 2024 - Feb 2025</span><br>
