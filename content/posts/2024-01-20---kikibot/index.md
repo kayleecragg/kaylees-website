@@ -2,7 +2,7 @@
 title: "Kikibot"
 date: "2024-01-20T13:46:37.121Z"
 template: "post"
-draft: false
+draft: true
 slug: "/projects/kikibot"
 category: "Projects"
 tags:

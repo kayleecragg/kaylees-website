@@ -2,7 +2,7 @@
 title: "Tennis Checkerboard"
 date: "2025-05-26T14:40:32.169Z"
 template: "post"
-draft: false
+draft: true
 slug: "/projects/checkerboard"
 category: "Projects"
 tags:

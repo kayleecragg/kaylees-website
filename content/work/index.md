@@ -37,8 +37,10 @@ Learnt about OCaml and functional programming, and created a game in OCaml<br>
 <span style="color:gray">Live Operations Assistant | Jul 2022 - Present</span><br>
 This role was also mainly broadcasting, where I was responsible for the live‐streaming and VOD delivery of events with up to 300k+ live viewers *(tennis grand slams, european football - UEFA, rugby, pfl etc)*, but as a side quest I:
 
-- created a set of [Jupyter notebooks](/projects/kikibot) utilizing Python, Selenium, Puppeteer, Google Sheets API and Google Colab to automate the creation and uploading of shells/assets and platform images, enhancing workflow efficiency and reducing human rate of error tenfold (40 to 4 hours per day).
-- created a real-time tennis tournament [checkerboard](/projects/checkerboard) web application using HTML & Javascript that aggregates live match data from a custom-made API
+<!-- - created a set of [Jupyter notebooks](/projects/kikibot) utilizing Python, Selenium, Puppeteer, Google Sheets API and Google Colab to automate the creation and uploading of shells/assets and platform images, enhancing workflow efficiency and reducing human rate of error tenfold (40 to 4 hours per day).
+- created a real-time tennis tournament [checkerboard](/projects/checkerboard) web application using HTML & Javascript that aggregates live match data from a custom-made API -->
+- created a set of Jupyter notebooks utilizing Python, Selenium, Puppeteer, Google Sheets API and Google Colab to automate the creation and uploading of shells/assets and platform images, enhancing workflow efficiency and reducing human rate of error tenfold (40 to 4 hours per day).
+- created a real-time tennis tournament checkerboard web application using HTML & Javascript that aggregates live match data from a custom-made API
 - optimised an existing Google Sheets workflow by integrating advanced formulas, enhancing time efficiency by 471%.
 - trained new staff on operational workflows.
 **Technologies:** Python, Selenium, Google Colab, Google Sheets API, HTML, Javascript, Git

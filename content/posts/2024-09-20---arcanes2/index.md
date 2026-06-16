@@ -2,7 +2,7 @@
 title: "Arcane Season 2 Countdown"
 date: "2024-09-23T22:40:32.169Z"
 template: "post"
-draft: true
+draft: false
 slug: "/projects/arcane-s2"
 category: "Projects"
 tags:
