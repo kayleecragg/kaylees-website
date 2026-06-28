@@ -2,11 +2,12 @@
 title: "Tennis Checkerboard"
 date: "2025-05-26T14:40:32.169Z"
 template: "post"
-draft: true
+draft: false
 slug: "/projects/checkerboard"
 category: "Projects"
 tags:
   - "development"
+  - "stan"
 description: "HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)"
 socialImage: "./checkerboard.png"
 ---

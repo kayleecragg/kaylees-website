@@ -30,8 +30,12 @@
                 "contact": "kayleecragg"
             },
             {
+                "name": "linkedin",
+                "contact": "kayleecragg"
+            },
+            {
                 "name": "email",
-                "contact": "kayleeanncragg@gmail.com"
+                "contact": "mailto:kayleeanncragg@gmail.com"
             }
         ]
     }

@@ -2,11 +2,12 @@
 title: "Kikibot"
 date: "2024-01-20T13:46:37.121Z"
 template: "post"
-draft: true
+draft: false
 slug: "/projects/kikibot"
 category: "Projects"
 tags:
   - "development"
+  - "stan"
 description: "Automated Asset and Image Creation made in Python (Selenium, Google Sheets API, Colab) that enhanced workflow efficiency tenfold, turning 40 hours into 4 hours."
 socialImage: "./postbot.png"
 ---

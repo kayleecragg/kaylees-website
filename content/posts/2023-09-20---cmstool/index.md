@@ -7,6 +7,7 @@ slug: "/projects/CMS-Tool"
 category: "Projects"
 tags:
   - "development"
+  - "stan"
 description: "Web app demo of upgraded content management system to pitch to workplace's product team."
 socialImage: "./cms.png"
 ---

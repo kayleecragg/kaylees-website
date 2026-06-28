@@ -43,6 +43,9 @@ This role was also mainly broadcasting, where I was responsible for the live‐s
 - created a real-time tennis tournament checkerboard web application using HTML & Javascript that aggregates live match data from a custom-made API
 - optimised an existing Google Sheets workflow by integrating advanced formulas, enhancing time efficiency by 471%.
 - trained new staff on operational workflows.
+
+To see a list of all projects I made at stan, click [here](/tag/stan/).
+
 **Technologies:** Python, Selenium, Google Colab, Google Sheets API, HTML, Javascript, Git
 
 ### Nine
