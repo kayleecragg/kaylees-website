@@ -1,7 +1,8 @@
 const getContactHref = (name: string, contact: string) => {
   const hrefs: { [key: string]: string } = {
     mastodon: `${contact}`,
-    email: btoa(contact) || "",
+    email: `mailto:${contact}`,
+    // email: btoa(contact) || "",
     line: `line://ti/p/${contact}`,
     x: `https://www.x.com/${contact}`,
     telegram: `https://t.me/${contact}`,
