@@ -1,4 +1,4 @@
-<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 28 Jun 2026 04:02:59 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Kaylee's Website]]></title><description><![CDATA[Kaylee's Website]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Wed, 01 Jul 2026 23:50:41 GMT</lastBuildDate><item><title><![CDATA[Tennis Checkerboard]]></title><description><![CDATA[HTML web app coupled with a Javascript server hosted on Vercel. (Making a project in one shift)]]></description><link>http://kayleecragg.github.io//projects/checkerboard</link><guid isPermaLink="false">http://kayleecragg.github.io//projects/checkerboard</guid><pubDate>Mon, 26 May 2025 14:40:32 GMT</pubDate><content:encoded>&lt;figure style=&quot;text-align: center;&quot;&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
       &lt;span class=&quot;gatsby-resp-image-background-image&quot; style=&quot;padding-bottom: 51.25000000000001%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAKCAIAAAA7N+mxAAAACXBIWXMAABYlAAAWJQFJUiTwAAABqklEQVR42iVS2ZKbMBDkOcfGmEMY2yAJdI8ODuP1ptb5/7/KYKtGXWr1qOehlR3y/HBAyI9HrOMbkfZ975wDADGOu5q/1Pchz1/9x6zrrthX13VRlEVZ7oi7rNCvJgTrzyFHWpTVG1HbV1UfizKjlDE2dj1vr/R8pZeOnTvWXjrSnKq6IaeWtJeqJlXTIpLTuT61FWlq0hZlnXExDkaiA+e8Y1QOgzeGs3313VUMAyhFac8Y7a4XMXCnFKM933mXca/d9wre+yXZNcEwPGII4JIHo6Qfx2eK4FwAMFIGIf7GGByqHk0zo/3n8nTWT9MSXeq9Ul+zRj16kSDw4dtBsDY6p8fRjeMnBKM13hghMtDjY/EpwDTNVhvpxbJ5HAVT1NYMVqK3NSYEL63xin/N1oOfUlQ4ORj63NQyT/f73WI0kj5mnRLSzWorvJj/TR5smJIFiJZ+3/S6zNiMQWZGsvukQ4y3280YBxofq3V5ezkn2RZUSvG+bUobq7DZIF3X1RiTYZZN0xDSvJC0p6Zt22qPhWCcr++Qf/z+QPXHz1+g+uemY0o4yVr7H2v4U2wujfnbAAAAAElFTkSuQmCC&apos;); background-size: cover; display: block;&quot;&gt;&lt;/span&gt;
   &lt;picture&gt;
@@ -229,10 +229,21 @@ So after the first few days of me having this system up, my supervisor contacted
     &lt;/span&gt;
 &lt;/figure&gt;
 &lt;ul&gt;
-&lt;li&gt;improvements made recently to increase interval check from like 20 seconds to 1.5 seconds (speed 😎)&lt;/li&gt;
-&lt;li&gt;also since company recently introduced ad breaks to customers, built another website on top of it to help notify people when during the match to take ad breaks (there are specific timings)&lt;/li&gt;
-&lt;li&gt;i dont think i can show this tho but i can show the reactions to itmid&lt;/li&gt;
+&lt;li&gt;improvements made recently to increase interval check from 20 seconds to 1.5 seconds (which resulted in updates to scores coming in faster 😎)&lt;/li&gt;
+&lt;li&gt;this also allowed me to create a ad break notifier (since me company recently introduced ad breaks to customers)&lt;/li&gt;
+&lt;li&gt;i built another website on top of the fast time event triggers to help notify people when during the match to take ad breaks (there are specific timings)&lt;/li&gt;
+&lt;li&gt;can’t show this website for privacy purposes but!&lt;/li&gt;
+&lt;li&gt;here is the audio cue for when to roll a break&lt;/li&gt;
 &lt;/ul&gt;
+&lt;div align=&quot;center&quot;&gt;
+  &lt;figure&gt;
+    &lt;audio controls&gt;
+      &lt;source src=&quot;/24b52d601d82f686ab153b5013a7fac6/bell.mp3&quot; type=&quot;audio/mpeg&quot;&gt;
+      Your browser does not support the audio element.
+    &lt;/audio&gt;
+    &lt;figcaption&gt;actually an a5 music note (880hz) with a sine tone and fade in/out effect&lt;/figcaption&gt;
+  &lt;/figure&gt;
+&lt;/div&gt;
 &lt;p&gt;anyways yeah good outcome :)&lt;/p&gt;
 &lt;figure&gt;
   &lt;span class=&quot;gatsby-resp-image-wrapper&quot; style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 960px; &quot;&gt;
